@@ -12,7 +12,7 @@ I use state-of-the-art computational tools in fields where atomic-scale informat
 
 J. M. P. Martirez, and E. A. Carter, Excited-State N2 Dissociation Pathway on Fe-Functionalized Au. J.  Am. Chem. Soc., 139, 4390-4398 (2017)
 
-![Image](/images/AuFe-N2-TOC.png)
+![Image](TOC-AuFe-N2.png)
 
 R. B. Wexler, J. M. P. Martirez, and A. M. Rappe, Stable Phosphorus Enriched (0001) Surfaces of Nickel Phosphides. Chem. Mater. 28, 5365-5372 (2016) 
 
