@@ -13,7 +13,7 @@ I use state-of-the-art computational tools in fields where atomic-scale informat
 
 #### Plasmon-Driven Catalysis on Metals
 <p align="center">
-<img src="https://martirez.github.io/path2-movie.mp4" width="280">
+<img src="https://martirez.github.io/AuFe-N2-path2.gif" width="280">
 </p>
 
 N2 dissociation pathway on Fe-doped Au(111) surface. We determine if the reaction barrier can be reduced via accessing electronically excited-states.
