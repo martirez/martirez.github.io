@@ -13,11 +13,10 @@ I use state-of-the-art computational tools in fields where atomic-scale informat
 
 #### Mechanism of Surface Reconstruction
 <p>
-<img src="https://martirez.github.io/c2_dyn.gif" width="320" >
-<img src="https://martirez.github.io/c4_dyn.gif" width="320">
+<img src="https://martirez.github.io/c4_dyn.gif" width="280">
 </p>
 
-"Kick-out" and "Sling-shot" hop mechanisms for TiO diffusion facilitating the interconversion between the c(2x2) and c(4x4) TiO-rich surface reconstruction of BaTiO<sub>3</sub>(001) predicted via the nudged elastic band method within a DFT framework.
+"Sling-shot" hop mechanism for TiO diffusion facilitating the interconversion between the c(2x2) and c(4x4) TiO-rich surface reconstruction of BaTiO<sub>3</sub>(001) predicted via the nudged elastic band method within a DFT framework.
 
 Published in E. H. Morales, J. M. P. Martirez, W. A. Saidi, A. M. Rappe, and D. A. Bonnell, Coexisting Surface Phases and Coherent One-Dimensional Interfaces on BaTiO<sub>3</sub>(001). ACS Nano 8, 4465-4473 (2014)
 
