@@ -12,7 +12,7 @@ I use state-of-the-art computational tools in fields where atomic-scale informat
 ### Research Highlights
 
 #### Mechanism of Surface Reconstruction
-<p>
+<p align="center">
 <img src="https://martirez.github.io/c4_dyn.gif" width="280">
 </p>
 
