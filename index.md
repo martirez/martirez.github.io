@@ -11,11 +11,25 @@ I use state-of-the-art computational tools in fields where atomic-scale informat
 
 ### Research Highlights
 
+#### Mechanism of Surface Reconstruction
+<p align="center">
+<img src="https://martirez.github.io/c2_dyn.gif" width="450">
+<img src="https://martirez.github.io/c4_dyn.gif" width="450">
+
+"Kick-out" and "Sling-shot" hop mechanisms for TiO diffusion facilitating the interconversion between the c(2x2) and c(4x4) TiO-rich surface reconstruction of BaTiO<sub>3</sub>(001)
+
+Published in E. H. Morales, J. M. P. Martirez, W. A. Saidi, A. M. Rappe, and D. A. Bonnell, Coexisting Surface Phases and Coherent One-Dimensional Interfaces on BaTiO3(001). ACS Nano 8, 4465-4473 (2014)
+</p>
+
+### Recent Publications
+
 J. M. P. Martirez, and E. A. Carter, Excited-State N2 Dissociation Pathway on Fe-Functionalized Au. J.  Am. Chem. Soc., 139, 4390-4398 (2017)
 
 <p align="center">
 <img src="https://martirez.github.io/TOC-AuFe-N2.png" width="350">
 </p>
+
+D. F. Swearer, H. Zhao, L. Zhou, C. Zhang, H. Robatjazi, J. M. P. Martirez, C. M. Krauter, S. Yazdi, M. J. McClain, E. Ringe, E. A. Carter, P. Nordlander, N. J. Halas, Heterometallic Antenna-Reactor Complexes for Photocatalysis. Proc. Natl. Acad. Sci. 113, 8916-8920 (2016) 
 
 R. B. Wexler, J. M. P. Martirez, and A. M. Rappe, Stable Phosphorus Enriched (0001) Surfaces of Nickel Phosphides. Chem. Mater. 28, 5365-5372 (2016) 
 
