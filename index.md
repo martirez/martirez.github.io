@@ -1,8 +1,7 @@
-
 # Dr. J. Mark P. Martirez - Theoretical and Computational Chemistry
 
 email: MARTIREZ (at) princeton.edu
-CV: <file src="https://martirez.github.io/MARTIREZ_JohnMark-CV.pdf">
+[CV](https://martirez.github.io/MARTIREZ_JohnMark-CV.pdf)
 
 I'm currently a postdoctoral research associate at the Department of Mechanical and Aerospace Engineering 
 at Princeton University, working with [Dean Emily A. Carter](https://carter.princeton.edu/). 
