@@ -1,37 +1,20 @@
-## Welcome to GitHub Pages
+## Dr. J. Mark P. Martirez - Theoretical and Computational Chemistry
 
-You can use the [editor on GitHub](https://github.com/martirez/martirez.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+email: MARTIREZ (at) princeton.edu
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I'm currently a postdoctoral research associate at the Department of Mechanical and Aerospace Engineering 
+at Princeton University, working with Dean Emily A. Carter (https://carter.princeton.edu/). 
 
-### Markdown
+I use state-of-the-art computational tools in fields where atomic-scale information delivers unparalleled chemical design principles. The main thrust of my work is using first-principles density functional theory (DFT) and embedded correlated wavefunction (emb-CW) methods to guide experimentalists in finding alternative and unconventional reaction pathways for industrially relevant reactions. These entail computational investigations on manipulation of reactions via new or surface-modified heterogeneous catalysts and introduction of molecular co-catalysts. The foundation of my work lay on the identification of key species and pathways in catalysis from first-principles quantum mechanics.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Research Highlights
 
-```markdown
-Syntax highlighted code block
+J. M. P. Martirez, and E. A. Carter, Excited-State N2 Dissociation Pathway on Fe-Functionalized Au. J.  Am. Chem. Soc., 139, 4390-4398 (2017)
 
-# Header 1
-## Header 2
-### Header 3
+![Image]()
 
-- Bulleted
-- List
+R. B. Wexler, J. M. P. Martirez, and A. M. Rappe, Stable Phosphorus Enriched (0001) Surfaces of Nickel Phosphides. Chem. Mater. 28, 5365-5372 (2016) 
 
-1. Numbered
-2. List
+J. M. P. Martirez, and E. A. Carter, Thermodynamic Constraints in Using AuM (M= Fe, Co, Ni and Mo) Alloys as N2 Dissociation Catalysts: Functionalizing a Plasmon-Active Metal. ACS Nano 10, 2940-2949 (2016)
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/martirez/martirez.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
