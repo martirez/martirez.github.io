@@ -13,10 +13,10 @@ I use state-of-the-art computational tools in fields where atomic-scale informat
 
 #### Mechanism of Surface Reconstruction
 <p align="center">
-<div style="width:150px;height:150px;overflow:hidden">
+<div class="thumb1">
 <img src="https://martirez.github.io/c2_dyn.gif" width="400">
 </div>
-<div style="width:150px;height:150px;overflow:hidden">
+<div class="thumb1">
 <img src="https://martirez.github.io/c4_dyn.gif" width="400">
 </div>
 </p>
