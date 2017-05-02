@@ -20,4 +20,4 @@ R. B. Wexler, J. M. P. Martirez, and A. M. Rappe, Stable Phosphorus Enriched (00
 
 J. M. P. Martirez, and E. A. Carter, Thermodynamic Constraints in Using AuM (M= Fe, Co, Ni and Mo) Alloys as N2 Dissociation Catalysts: Functionalizing a Plasmon-Active Metal. ACS Nano 10, 2940-2949 (2016)
 
-![Image]{TOC-AuM-N2.png)
+![Image](TOC-AuM-N2.png)
