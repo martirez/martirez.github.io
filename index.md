@@ -13,14 +13,8 @@ I use state-of-the-art computational tools in fields where atomic-scale informat
 
 #### Mechanism of Surface Reconstruction
 <p>
-<div style="width:200px;height:200px;overflow:hidden;margin: -75px 0 0 -75px;">
-<img src="https://martirez.github.io/c2_dyn.gif" width="400" >
-</div>
-</p>
-<p>
-<div style="width:200px;height:200px;overflow:hidden;margin: -75px 0 0 -75px;">
-<img src="https://martirez.github.io/c4_dyn.gif" width="400">
-</div>
+<img src="https://martirez.github.io/c2_dyn.gif" width="320" >
+<img src="https://martirez.github.io/c4_dyn.gif" width="320">
 </p>
 
 "Kick-out" and "Sling-shot" hop mechanisms for TiO diffusion facilitating the interconversion between the c(2x2) and c(4x4) TiO-rich surface reconstruction of BaTiO<sub>3</sub>(001) predicted via the nudged elastic band method within a DFT framework.
