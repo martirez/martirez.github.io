@@ -30,7 +30,7 @@ Published in J. M. P. Martirez, and E. A. Carter, Excited-State N<sub>2</sub> Di
 Published in E. H. Morales, J. M. P. Martirez, W. A. Saidi, A. M. Rappe, and D. A. Bonnell, Coexisting Surface Phases and Coherent One-Dimensional Interfaces on BaTiO~3~(001). ACS Nano 8, 4465-4473 (2014)
 
 ### Recent Publications
-[Complete list](pub-list.md)
+[Complete list](publist.md)
 
 J. M. P. Martirez, and E. A. Carter, Excited-State N<sub>2</sub> Dissociation Pathway on Fe-Functionalized Au. J.  Am. Chem. Soc., 139, 4390-4398 (2017)
 
