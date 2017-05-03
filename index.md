@@ -1,9 +1,3 @@
-[<img src="https://martirez.github.io/icons/home.png" height="100">](index.md)&nbsp;&nbsp;
-[<img src="https://martirez.github.io/icons/research.png" height="100">](research.md)&nbsp;&nbsp;
-[<img src="https://martirez.github.io/icons/publications.png" height="100">](publist.md)&nbsp;
-[<img src="https://martirez.github.io/icons/presentations.png" height="100">](presentations.md)&nbsp;
-[<img src="https://martirez.github.io/icons/tools.png" height="100">](tools.md)
-
 ## John Mark P. Martirez, Ph. D. 
 email: MARTIREZ (at) princeton.edu
 [Curriculum Vitae](https://martirez.github.io/MARTIREZ_JohnMark-CV.pdf)
