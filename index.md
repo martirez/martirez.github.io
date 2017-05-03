@@ -1,3 +1,9 @@
+[<img src="https://martirez.github.io/icons/home.png" height="100">](index.md)
+[<img src="https://martirez.github.io/icons/research.png" height="100">](research.md)
+[<img src="https://martirez.github.io/icons/publications.png" height="100">](publist.md)
+[<img src="https://martirez.github.io/icons/presentations.png" height="100">](presentations.md)
+[<img src="https://martirez.github.io/icons/tools.png" height="100">](tools.md)
+
 # Dr. J. Mark P. Martirez - Theoretical and Computational Chemistry
 
 email: MARTIREZ (at) princeton.edu
