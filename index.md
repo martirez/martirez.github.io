@@ -16,7 +16,7 @@ I use state-of-the-art computational tools in fields where atomic-scale informat
 <img src="https://martirez.github.io/AuFe-N2-path2.gif" width="280">
 </p>
 
-N2 dissociation pathway on a Fe-doped Au(111) surface. We determine that the N2 dissociation barrier can be effectively reduced via accessing electronically excited-states which we calculated via the embedded n-electron valence second order perturbation theory. 
+N2 dissociation pathway on a Fe-doped Au(111) surface. We show that the N2 dissociation barrier can be effectively reduced via accessing electronically excited-states which we calculated via the embedded n-electron valence second order perturbation theory. 
 
 Published in J. M. P. Martirez, and E. A. Carter, Excited-State N<sub>2</sub> Dissociation Pathway on Fe-Functionalized Au. J.  Am. Chem. Soc., 139, 4390-4398 (2017)
 
