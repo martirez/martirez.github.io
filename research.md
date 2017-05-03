@@ -10,7 +10,7 @@
 
 OER on Reconstructed SrTiO3 surface: Taking Clues from Nature
 <p align="center">
-<img src="research/STO-O2.png" width="560">
+<img src="research/STO-O2.png" width="520">
 </p>
 
 SrTiO3 has been known for years to be a water splitting catalysts that can generate both H2 and O2 from upon illumination with sunlight, without the need for any external potential bias. We predict, and experimentally verified, that the high-temperature surface phase: TiO2-rich (a.k.a. TiO2 double layer) reconstruction of SrTiO3(001), is able to catalyze water oxidation more efficiently than the native surfaces. The structural unit exhibit striking resemblance to the cubane-like metal oxide cluster found in the oxygen evolving centers of photosytem II protein complexes. This finding show that catalytic activity can be tuned with structural modifications, and illustrates that indeed structure can affect function.   
