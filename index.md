@@ -5,6 +5,7 @@
 [<img src="https://martirez.github.io/icons/tools.png" height="100">](tools.md)
 
 ## John Mark P. Martirez, Ph. D. 
+email: MARTIREZ (at) princeton.edu
 [Curriculum Vitae](https://martirez.github.io/MARTIREZ_JohnMark-CV.pdf)
 
 I'm currently a postdoctoral research associate at the Department of Mechanical and Aerospace Engineering 
