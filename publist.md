@@ -1,10 +1,10 @@
 [Main](index.md)
 
-# Publications
+## Publications
 <ol reversed>
 <li> J. M. P. Martirez, and E. A. Carter, Excited-State N<sub>2</sub> Dissociation Pathway on Fe-Functionalized Au. J.  Am. Chem. Soc., 139, 4390-4398 (2017)
 ..* <p align="center">
-<img src="https://martirez.github.io/TOC-AuFe-N2.png" width="350">
+<img src="https://martirez.github.io/TOC-AuFe-N2.png" width="300">
 </p>
 </li>
 
@@ -14,14 +14,14 @@ D. F. Swearer, H. Zhao, L. Zhou, C. Zhang, H. Robatjazi, J. M. P. Martirez, C. M
 
 <li>
 R. B. Wexler, J. M. P. Martirez, and A. M. Rappe, Stable Phosphorus Enriched (0001) Surfaces of Nickel Phosphides. Chem. Mater. 28, 5365-5372 (2016)  
-<p align="center"> <img src="https://martirez.github.io/TOC-NixPy.jpeg" width="350">
+<p align="center"> <img src="https://martirez.github.io/TOC-NixPy.jpeg" width="300">
 </p>
 </li>
 
 <li>
 J. M. P. Martirez, and E. A. Carter, Thermodynamic Constraints in Using AuM (M= Fe, Co, Ni and Mo) Alloys as N2 Dissociation Catalysts: Functionalizing a Plasmon-Active Metal. ACS Nano 10, 2940-2949 (2016) 
 <p align="center">
-<img src="https://martirez.github.io/TOC-AuM-N2.png" width="350">
+<img src="https://martirez.github.io/TOC-AuM-N2.png" width="300">
 </p>
 </li>
 
