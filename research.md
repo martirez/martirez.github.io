@@ -3,7 +3,15 @@ under construction ...
 
 ### (Photo)electrochemical Water Splitting
 
-#### Oxygen Evolution Reaction
+#### Hydrogen Evolution Reaction (HER)
+
+Compositionally rich surface phases of HER-active NixPy 
+<p align="center">
+<img src="research/Ni5P4-Surfaces.png" width="380">
+</p>
+Published in:
+
+#### Oxygen Evolution Reaction (OER)
 
 OER on Reconstructed SrTiO3 surface: Taking Clues from Nature
 <p align="center">
