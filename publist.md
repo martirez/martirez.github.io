@@ -1,4 +1,5 @@
-[Main](index.md)
+[<img src="https://martirez.github.io/icons/home.png" width="90">](index.md)
+
 ## Patents
 <ol reversed>
 <li> 
