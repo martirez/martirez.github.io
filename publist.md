@@ -31,7 +31,7 @@ Y. Qi, J. M. P. Martirez, W. A. Saidi, J.J. Urban, W.S. Yun, J.E. Spanier and A.
 <li>
 J. M. P. Martirez, S. Kim, E. H. Morales, B. T. Diroll, M. Cargnello, T. R. Gordon, C. B. Murray, D. A. Bonnell, and A. M. Rappe, Synergistic Oxygen Evolving Activity of a TiO2-rich Reconstructed SrTiO3(001) Surface.  J. Am. Chem. Soc. 137, 2939-2947 (2015) DOI: 10.1021/ja511332y
 <p align="center">
-<img src="https://martirez.github.io/TOC-STO-O2.png" width="300">
+<img src="https://martirez.github.io/TOC-STO-O2.jpeg" width="300">
 </p>
 </li>
 <li>
@@ -40,7 +40,7 @@ C. Baeumer, D. Saldana-Greco, J. M. P. Martirez, A. M. Rappe, M. Shim, and L. W.
 <li>
 W. A. Saidi, J. M. P. Martirez, and A. M. Rappe, Strong Reciprocal Interaction between Polarization and Surface Stoichiometry in Ferroelectric Oxides. Nano Lett. 14, 6711-6717 (2014) DOI: 10.1021/nl5035013
 <p align="center">
-<img src="https://martirez.github.io/TOC-BTO-PTO.png" width="300">
+<img src="https://martirez.github.io/TOC-BTO-PTO.jpeg" width="300">
 </p>
 </li>
 <li>
