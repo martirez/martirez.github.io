@@ -6,12 +6,12 @@
 
 Compositionally rich surface phases of HER-active NixPy compounds 
 <p align="center">
-<img src="research/Ni5P4-Surfaces.png" width="580">
+<img src="research/Ni5P4-Surfaces.png" width="590">
 </p>
 
 Ni2P and Ni5P4 are among the most promising alternatives to Pt as cathodes for water splitting. The origin of their activities is likely derived from P atoms that dominate their surfaces. We predict P-rich stable surface reconstructions, which provide clues into what makes Ni5P4 better than Ni2P in HER activity.
 
-Published in:R. B. Wexler, J. M. P. Martirez, and A. M. Rappe, Stable Phosphorus Enriched (0001) Surfaces of Nickel Phosphides. Chem. Mater. 28, 5365-5372 (2016)
+Published in: R. B. Wexler, J. M. P. Martirez, and A. M. Rappe, Stable Phosphorus Enriched (0001) Surfaces of Nickel Phosphides. Chem. Mater. 28, 5365-5372 (2016)
 
 #### Oxygen Evolution Reaction (OER)
 
