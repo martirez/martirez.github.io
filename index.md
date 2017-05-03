@@ -4,10 +4,7 @@
 [<img src="https://martirez.github.io/icons/presentations.png" height="100">](presentations.md)&nbsp;
 [<img src="https://martirez.github.io/icons/tools.png" height="100">](tools.md)
 
-# Dr. J. Mark P. Martirez - Theoretical and Computational Chemistry
-
-email: MARTIREZ (at) princeton.edu
-
+## John Mark P. Martirez, Ph. D. 
 [Curriculum Vitae](https://martirez.github.io/MARTIREZ_JohnMark-CV.pdf)
 
 I'm currently a postdoctoral research associate at the Department of Mechanical and Aerospace Engineering 
