@@ -31,6 +31,7 @@ Published in E. H. Morales, J. M. P. Martirez, W. A. Saidi, A. M. Rappe, and D. 
 
 ### Recent Publications
 [Complete list](https://martirez.github.io/pub-list.md)
+
 J. M. P. Martirez, and E. A. Carter, Excited-State N<sub>2</sub> Dissociation Pathway on Fe-Functionalized Au. J.  Am. Chem. Soc., 139, 4390-4398 (2017)
 
 <p align="center">
