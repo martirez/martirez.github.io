@@ -1,4 +1,4 @@
-[<img src="https://martirez.github.io/icons/home.png" width="90">](index.md)
+[<img src="https://martirez.github.io/icons/home.png" height="100">](index.md)
 
 ## Patents
 <ol reversed>
