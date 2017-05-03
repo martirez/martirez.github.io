@@ -1,3 +1,5 @@
+[Main](index.md)
+
 # Publications
 <ol reversed>
 <li> J. M. P. Martirez, and E. A. Carter, Excited-State N<sub>2</sub> Dissociation Pathway on Fe-Functionalized Au. J.  Am. Chem. Soc., 139, 4390-4398 (2017)
