@@ -1,4 +1,10 @@
 [Main](index.md)
+## Patents
+<ol reversed>
+<li> 
+J. M. P. Martirez, S. Kim, and A. M. Rappe, Synergistic Oxygen Evolving Activity of Non-Stoichiometric Surfaces. United States Letters Patent No.: 9,469,908. Issued October 18, 2016
+</li>
+</ol>
 
 ## Publications
 <ol reversed>
@@ -40,7 +46,7 @@ C. Baeumer, D. Saldana-Greco, J. M. P. Martirez, A. M. Rappe, M. Shim, and L. W.
 <li>
 W. A. Saidi, J. M. P. Martirez, and A. M. Rappe, Strong Reciprocal Interaction between Polarization and Surface Stoichiometry in Ferroelectric Oxides. Nano Lett. 14, 6711-6717 (2014) DOI: 10.1021/nl5035013
 <p align="center">
-<img src="https://martirez.github.io/TOC-BTO-PTO.jpeg" width="300">
+<img src="https://martirez.github.io/TOC-BTO-PTO.jpeg" width="360">
 </p>
 </li>
 <li>
