@@ -1,4 +1,5 @@
 [<img src="https://martirez.github.io/icons/home.png" height="100">](index.md)
+[<img src="https://martirez.github.io/icons/home.png" height="100">](index.md)
 [<img src="https://martirez.github.io/icons/research.png" height="100">](research.md)
 [<img src="https://martirez.github.io/icons/publications.png" height="100">](publist.md)
 [<img src="https://martirez.github.io/icons/presentations.png" height="100">](presentations.md)
