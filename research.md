@@ -1,16 +1,5 @@
 ## Research
 
-### Plasmon-driven catalysis
-
-#### Nitrogen Activation on Functionalized Plasmon-Active Au
-
-N2 dissociation on Fe-doped Au(111) surface
-<p align="center">
-<img src="research/AuFe-N2-research.png" width="540">
-</p>
-
-Published in: J. M. P. Martirez, and E. A. Carter, Excited-State N<sub>2</sub> Dissociation Pathway on Fe-Functionalized Au. J.  Am. Chem. Soc., 139, 4390-4398 (2017)
-
 ### (Photo)electrochemical Water Splitting
 
 #### Oxygen Evolution Reaction (OER)
@@ -34,3 +23,15 @@ Compositionally rich surface phases of HER-active NixPy compounds
 Ni2P and Ni5P4 are among the most promising alternatives to Pt as cathodes for water splitting. The origin of their activities is likely derived from P atoms that dominate their surfaces. We predict P-rich stable surface reconstructions, which provide clues into what makes Ni5P4 better than Ni2P in HER activity.
 
 Published in: R. B. Wexler, J. M. P. Martirez, and A. M. Rappe, Stable Phosphorus Enriched (0001) Surfaces of Nickel Phosphides. Chem. Mater. 28, 5365-5372 (2016)
+
+
+### Plasmon-driven catalysis
+
+#### Nitrogen Activation on Functionalized Plasmon-Active Au
+
+N2 dissociation on Fe-doped Au(111) surface
+<p align="center">
+<img src="research/AuFe-N2-research.png" width="540">
+</p>
+
+Published in: J. M. P. Martirez, and E. A. Carter, Excited-State N<sub>2</sub> Dissociation Pathway on Fe-Functionalized Au. J.  Am. Chem. Soc., 139, 4390-4398 (2017)
