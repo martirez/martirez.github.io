@@ -6,7 +6,7 @@
 
 N2 dissociation on Fe-doped Au(111) surface
 <p align="center">
-<img src="research/AuFe-N2-research.png" width="600">
+<img src="research/AuFe-N2-research.png" width="540">
 </p>
 
 ### (Photo)electrochemical Water Splitting
