@@ -9,6 +9,8 @@ N2 dissociation on Fe-doped Au(111) surface
 <img src="research/AuFe-N2-research.png" width="540">
 </p>
 
+Published in: J. M. P. Martirez, and E. A. Carter, Excited-State N<sub>2</sub> Dissociation Pathway on Fe-Functionalized Au. J.  Am. Chem. Soc., 139, 4390-4398 (2017)
+
 ### (Photo)electrochemical Water Splitting
 
 #### Oxygen Evolution Reaction (OER)
