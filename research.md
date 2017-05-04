@@ -4,6 +4,11 @@
 
 #### Nitrogen Activation on Functionalized Plasmon-Active Au
 
+N2 dissociation on Fe-doped Au(111) surface
+<p align="center">
+<img src="research/AuFe-N2-research.png" width="600">
+</p>
+
 ### (Photo)electrochemical Water Splitting
 
 #### Oxygen Evolution Reaction (OER)
