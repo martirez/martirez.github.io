@@ -11,7 +11,7 @@ I use state-of-the-art computational tools in fields where atomic-scale informat
 ### <span style="color:#404040">Research Highlights</span>
 
 <p align="center">
-<img align="right" hspace="20" src="https://martirez.github.io/AuFe-N2-path2.gif" width="280">
+<img align="right" style="margin: 20px 0px" src="https://martirez.github.io/AuFe-N2-path2.gif" width="280">
 </p>
 #### <span style="color:#0033cc">Plasmon-Driven Catalysis on Metals </span>
 
@@ -21,7 +21,7 @@ Published in J. M. P. Martirez, and E. A. Carter, Excited-State N<sub>2</sub> Di
 
 
 <p align="center">
-<img align="left" hspace="20" src="https://martirez.github.io/c4_dyn.gif" width="280">
+<img align="left" style="margin: 0px 20px" src="https://martirez.github.io/c4_dyn.gif" width="280">
 </p>
 #### <span style="color:#cc0066"> Mechanism of Surface Reconstruction of an Oxide </span>
 
