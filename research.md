@@ -1,6 +1,6 @@
 ## Research
 
-### Understanding of equilibrium and non-equilibrium surface phases
+### Understanding equilibrium and non-equilibrium phases of oxide surfaces
 
 Coexistence of reconstructed surface phases : thermodynamic and kinetic phases
 <p align="center">
