@@ -2,7 +2,7 @@
 
 ### Understanding equilibrium and non-equilibrium phases of oxide surfaces
 
-#### Coexistence of reconstructed surface phases : thermodynamic and kinetic phases
+#### Coexistence of reconstructed surface phases : thermodynamics vs. kinetics
 <p align="center">
 <img src="research/BTO-surface.png" width="560">
 </p>
