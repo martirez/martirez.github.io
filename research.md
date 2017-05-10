@@ -1,6 +1,6 @@
 ## Research
 
-### Understanding equilibrium and non-equilibrium phases of oxide surfaces
+### <span style="color:#0033cc">Understanding equilibrium and non-equilibrium phases of oxide surfaces</span>
 
 #### Coexistence of reconstructed surface phases : thermodynamics vs. kinetics
 <p align="center">
@@ -11,7 +11,7 @@ Metal oxide surfaces are known to undergo a plethora of phase transformations wh
 
 Published in E. H. Morales, J. M. P. Martirez, W. A. Saidi, A. M. Rappe, and D. A. Bonnell, Coexisting Surface Phases and Coherent One-Dimensional Interfaces on BaTiO<sub>3</sub>(001). ACS Nano 8, 4465-4473 (2014)
 
-### (Photo)electrochemical Water Splitting
+### <span style="color:#0033cc">(Photo)electrochemical Water Splitting</span>
 
 #### Oxygen Evolution Reaction (OER)
 
@@ -36,7 +36,7 @@ Ni2P and Ni5P4 are among the most promising alternatives to Pt as cathodes for w
 Published in: R. B. Wexler, J. M. P. Martirez, and A. M. Rappe, Stable Phosphorus Enriched (0001) Surfaces of Nickel Phosphides. Chem. Mater. 28, 5365-5372 (2016)
 
 
-### Plasmon-driven catalysis
+### <span style="color:#0033cc">Plasmon-driven catalysis</span>
 
 #### Nitrogen Activation on Functionalized Plasmon-Active Au
 
