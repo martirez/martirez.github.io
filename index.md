@@ -9,10 +9,10 @@ at Princeton University, working with [Dean Emily A. Carter](https://carter.prin
 I use state-of-the-art computational tools in fields where atomic-scale information delivers unparalleled chemical design principles. The main thrust of my work is using first-principles density functional theory (DFT) and embedded correlated wavefunction (emb-CW) methods to guide experimentalists in finding alternative and unconventional reaction pathways and catalysts for industrially relevant reactions. This entail computational investigations on manipulation of reactions via new or surface-modified heterogeneous catalysts and introduction of co-catalysts. The foundation of my work lay on the identification of key species and pathways in catalysis from first-principles quantum mechanics.
 
 ### <span style="color:#404040">Research Highlights</span>
-### <span style="color:#0033cc">Plasmon-Driven Catalysis on Metals </span>
+#### <span style="color:#0033cc">Plasmon-Driven Catalysis on Metals </span>
 
 <p align="center">
-<img src="https://martirez.github.io/AuFe-N2-path2.gif" width="280">
+<img align="right" src="https://martirez.github.io/AuFe-N2-path2.gif" width="280">
 </p>
 <p>
 N<sub>2</sub> dissociation pathway on a Fe-doped Au(111) surface. We show that the N2 dissociation barrier can be effectively reduced via accessing electronically excited-states, which we calculated via the embedded n-electron valence second order perturbation theory. 
@@ -22,7 +22,7 @@ Published in J. M. P. Martirez, and E. A. Carter, Excited-State N<sub>2</sub> Di
 
 #### <span style="color:#cc0066"> Mechanism of Surface Reconstruction of an Oxide </span>
 <p align="center">
-<img src="https://martirez.github.io/c4_dyn.gif" width="280">
+<img align="right" src="https://martirez.github.io/c4_dyn.gif" width="280">
 </p>
 
 "Sling-shot" hop mechanism for TiO diffusion facilitating the interconversion between the c(2x2) and c(4x4) TiO-rich surface reconstructions of BaTiO<sub>3</sub>(001) predicted via the nudged elastic band method within a DFT framework.
