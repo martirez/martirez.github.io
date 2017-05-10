@@ -9,15 +9,16 @@ at Princeton University, working with [Dean Emily A. Carter](https://carter.prin
 I use state-of-the-art computational tools in fields where atomic-scale information delivers unparalleled chemical design principles. The main thrust of my work is using first-principles density functional theory (DFT) and embedded correlated wavefunction (emb-CW) methods to guide experimentalists in finding alternative and unconventional reaction pathways for industrially relevant reactions. These entail computational investigations on manipulation of reactions via new or surface-modified heterogeneous catalysts and introduction of molecular co-catalysts. The foundation of my work lay on the identification of key species and pathways in catalysis from first-principles quantum mechanics.
 
 ### Research Highlights
+### <span style="color:#0033cc">Plasmon-Driven Catalysis on Metals </span>
 
-#### Plasmon-Driven Catalysis on Metals
 <p align="center">
 <img src="https://martirez.github.io/AuFe-N2-path2.gif" width="280">
 </p>
-
+<p>
 N<sub>2</sub> dissociation pathway on a Fe-doped Au(111) surface. We show that the N2 dissociation barrier can be effectively reduced via accessing electronically excited-states which we calculated via the embedded n-electron valence second order perturbation theory. 
 
 Published in J. M. P. Martirez, and E. A. Carter, Excited-State N<sub>2</sub> Dissociation Pathway on Fe-Functionalized Au. J.  Am. Chem. Soc., 139, 4390-4398 (2017)
+</p>
 
 #### Mechanism of Surface Reconstruction of an Oxide
 <p align="center">
