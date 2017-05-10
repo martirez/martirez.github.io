@@ -11,7 +11,7 @@ I use state-of-the-art computational tools in fields where atomic-scale informat
 ### <span style="color:#404040">Research Highlights</span>
 
 <p align="center">
-<img align="right" style="margin: 20px 0px" src="https://martirez.github.io/AuFe-N2-path2.gif" width="280">
+<img align="right" style="margin: 0px 20px" src="https://martirez.github.io/AuFe-N2-path2.gif" width="280">
 </p>
 #### <span style="color:#0033cc">Plasmon-Driven Catalysis on Metals </span>
 
