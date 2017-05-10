@@ -1,5 +1,12 @@
 ## Research
 
+### Understanding of equilibrium and non-equilibrium surface phases
+
+Coexistence of reconstructed surface phases : thermodynamic and kinetic phases
+<p align="center">
+<img src="research/BTO-surface.png" width="520">
+</p>
+
 ### (Photo)electrochemical Water Splitting
 
 #### Oxygen Evolution Reaction (OER)
