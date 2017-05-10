@@ -8,7 +8,7 @@ at Princeton University, working with [Dean Emily A. Carter](https://carter.prin
 
 I use state-of-the-art computational tools in fields where atomic-scale information delivers unparalleled chemical design principles. The main thrust of my work is using first-principles density functional theory (DFT) and embedded correlated wavefunction (emb-CW) methods to guide experimentalists in finding alternative and unconventional reaction pathways for industrially relevant reactions. These entail computational investigations on manipulation of reactions via new or surface-modified heterogeneous catalysts and introduction of molecular co-catalysts. The foundation of my work lay on the identification of key species and pathways in catalysis from first-principles quantum mechanics.
 
-### <span style="color:#ff5050">Research Highlights</span>
+### <span style="color:#404040">Research Highlights</span>
 ### <span style="color:#0033cc">Plasmon-Driven Catalysis on Metals </span>
 
 <p align="center">
@@ -29,7 +29,7 @@ Published in J. M. P. Martirez, and E. A. Carter, Excited-State N<sub>2</sub> Di
 
 Published in E. H. Morales, J. M. P. Martirez, W. A. Saidi, A. M. Rappe, and D. A. Bonnell, Coexisting Surface Phases and Coherent One-Dimensional Interfaces on BaTiO<sub>3</sub>(001). ACS Nano 8, 4465-4473 (2014)
 
-### <span style="color:#ff5050">Recent Publications</span>
+### <span style="color:#404040">Recent Publications</span>
 [Complete list](publist.md)
 
 J. M. P. Martirez, and E. A. Carter, Excited-State N<sub>2</sub> Dissociation Pathway on Fe-Functionalized Au. J.  Am. Chem. Soc., 139, 4390-4398 (2017)
