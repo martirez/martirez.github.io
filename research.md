@@ -7,7 +7,7 @@
 <img src="research/BTO-surface.png" width="560">
 </p>
 
-Metal oxides surfaces are know to undergo a plethora of phase transformation while maintaining the same structure in the bulk. This is especially true for transition metals oxides where mixed oxidation states is possible to achieve. BaTiO3 undergoes several surface reconstruction associated with the changes in the oxidation state of Ti in the surface. We found, through a combination of experimental surface imaging (via scanning tunneling microscopy, STM), and atomic-scale ab intio modeling, STM simulations, and thermodynamics, that the surface of BaTiO3 when subject to reducing conditions undergo TiO enrichment. Additionally thermodynamic and kinetic phases may arise due to the energetics of surface diffusion of the TiO units.     
+Metal oxide surfaces are known to undergo a plethora of phase transformations while maintaining the same structure in the bulk. This is especially true for transition metals oxides in which mixed metal oxidation states is possible to achieve. BaTiO3 undergoes several surface reconstructions associated with the changes in the oxidation state of Ti in the surface. We found, through a combination of experimental surface imaging (via scanning tunneling microscopy, STM), and atomic-scale ab intio modeling, STM simulations, and thermodynamics, that the surface of BaTiO3 when subject to reducing conditions undergo TiO enrichment. Additionally thermodynamic and kinetic phases may arise due to the energetics of surface diffusion of the TiO defect units.     
 
 Published in E. H. Morales, J. M. P. Martirez, W. A. Saidi, A. M. Rappe, and D. A. Bonnell, Coexisting Surface Phases and Coherent One-Dimensional Interfaces on BaTiO<sub>3</sub>(001). ACS Nano 8, 4465-4473 (2014)
 
