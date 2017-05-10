@@ -15,7 +15,7 @@ Published in E. H. Morales, J. M. P. Martirez, W. A. Saidi, A. M. Rappe, and D. 
 
 #### Oxygen Evolution Reaction (OER)
 
-OER on Reconstructed SrTiO3 surface: Taking Clues from Nature
+OER on Reconstructed SrTiO3 surface: Taking Cues from Nature
 <p align="center">
 <img src="research/STO-O2.png" width="520">
 </p>
