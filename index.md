@@ -15,7 +15,7 @@ I use state-of-the-art computational tools in fields where atomic-scale informat
 </p>
 #### <span style="color:#0033cc">Plasmon-Driven Catalysis on Metals </span>
 
-N<sub>2</sub> dissociation pathway on a Fe-doped Au(111) surface. We show that the N2 dissociation barrier can be effectively reduced via accessing electronically excited-states, which we calculated via the embedded n-electron valence second order perturbation theory. 
+N<sub>2</sub> dissociation pathway on a Fe-doped Au(111) surface. We show that the N2 dissociation barrier can be effectively reduced via accessing electronically excited-states, which we predicted via the embedded n-electron valence second order perturbation theory. 
 
 Published in J. M. P. Martirez, and E. A. Carter, Excited-State N<sub>2</sub> Dissociation Pathway on Fe-Functionalized Au. J.  Am. Chem. Soc., 139, 4390-4398 (2017)
 
@@ -25,7 +25,7 @@ Published in J. M. P. Martirez, and E. A. Carter, Excited-State N<sub>2</sub> Di
 </p>
 #### <span style="color:#cc0066"> Mechanism of Surface Reconstruction of an Oxide </span>
 
-"Sling-shot" hop mechanism for TiO diffusion facilitating the interconversion between the c(2x2) and c(4x4) TiO-rich surface reconstructions of BaTiO<sub>3</sub>(001) predicted via the nudged elastic band method within a DFT framework.
+"Sling-shot" hop mechanism in TiO diffusion facilitating the interconversion between the c(2x2) and c(4x4) TiO-rich reconstructions of BaTiO<sub>3</sub>(001) surface, predicted via the nudged elastic band method within a DFT framework.
 
 Published in E. H. Morales, J. M. P. Martirez, W. A. Saidi, A. M. Rappe, and D. A. Bonnell, Coexisting Surface Phases and Coherent One-Dimensional Interfaces on BaTiO<sub>3</sub>(001). ACS Nano 8, 4465-4473 (2014)
 
