@@ -41,8 +41,8 @@ Published in: R. B. Wexler, J. M. P. Martirez, and A. M. Rappe, Stable Phosphoru
 #### Nitrogen Activation on Functionalized Plasmon-Active Au
 
 N2 dissociation on Fe-doped Au(111) surface
-<p align="center">
-<img src="research/AuFe-N2-research.png" width="540">
-</p>
+!<p align="center">
+!<img src="research/AuFe-N2-research.png" width="540">
+!</p>
 
 Published in: J. M. P. Martirez, and E. A. Carter, Excited-State N<sub>2</sub> Dissociation Pathway on Fe-Functionalized Au. J.  Am. Chem. Soc., 139, 4390-4398 (2017)
