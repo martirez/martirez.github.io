@@ -18,7 +18,7 @@ J. M. P. Martirez, S. Kim, and A. M. Rappe, Synergistic Oxygen Evolving Activity
 <li> 
 R. B. Wexler, J. M. P. Martirez, and A. M. Rappe, Active Role of Phosphorus in the Hydrogen Evolving Activity of Nickel Phosphide (0001) Surfaces. ACS Catal., in press (2017) 
 <p align="center">
-<img src="https://martirez.github.io/TOC-NiP-H2.tiff" width="300">
+<img src="https://martirez.github.io/TOC-NiP-H2.pdf" width="300">
 </p> 
 </li>
 
