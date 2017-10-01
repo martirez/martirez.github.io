@@ -34,7 +34,8 @@ D. F. Swearer, H. Zhao, L. Zhou, C. Zhang, H. Robatjazi, J. M. P. Martirez, C. M
 
 <li>
 R. B. Wexler, J. M. P. Martirez, and A. M. Rappe, Stable Phosphorus Enriched (0001) Surfaces of Nickel Phosphides. Chem. Mater. 28, 5365-5372 (2016)  
-<p align="center"> <img src="https://martirez.github.io/TOC-NixPy.jpeg" width="300">
+<p align="center"> 
+<img src="https://martirez.github.io/TOC-NixPy.jpeg" width="300">
 </p>
 </li>
 
