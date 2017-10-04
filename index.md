@@ -1,7 +1,7 @@
 ## John Mark P. Martirez, Ph. D. 
 email: MARTIREZ (at) princeton.edu
 
-[Curriculum Vitae](https://martirez.github.io/CV-MARTIREZ-JohnMark.pdf)
+[Curriculum Vitae](https://martirez.github.io/MARTIREZ-JM-CV.pdf)
 
 [Google scholar profile](https://scholar.google.com/citations?user=_PiDROMAAAAJ&hl=en)
 
@@ -36,6 +36,10 @@ Published in E. H. Morales, J. M. P. Martirez, W. A. Saidi, A. M. Rappe, and D. 
 [Complete list](publist.md)
 
 R. B. Wexler, J. M. P. Martirez, and A. M. Rappe, Active Role of Phosphorus in the Hydrogen Evolving Activity of Nickel Phosphide (0001) Surfaces. ACS Catal., in press (2017) 
+
+<p align="center">
+<img src="https://martirez.github.io/TOC-NiP-H2.png" width="300">
+</p>
 
 J. M. P. Martirez, and E. A. Carter, Excited-State N<sub>2</sub> Dissociation Pathway on Fe-Functionalized Au. J.  Am. Chem. Soc., 139, 4390-4398 (2017)
 
