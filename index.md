@@ -1,7 +1,7 @@
 ## John Mark P. Martirez, Ph. D. 
 email: MARTIREZ (at) princeton.edu
 
-[Curriculum Vitae](https://martirez.github.io/MARTIREZ-JMP-CV.pdf)  && [Statement of Future Research](https://martirez.github.io/MARTIREZ-JMP-Research.pdf)  &&  [Google scholar profile](https://scholar.google.com/citations?user=_PiDROMAAAAJ&hl=en)
+[Curriculum Vitae](https://martirez.github.io/MARTIREZ-JMP-CV.pdf)  &nbsp &nbsp [Statement of Future Research](https://martirez.github.io/MARTIREZ-JMP-Research.pdf)  &nbsp &nbsp  [Google scholar profile](https://scholar.google.com/citations?user=_PiDROMAAAAJ&hl=en)
 
 I'm currently a postdoctoral research associate at the Department of Mechanical and Aerospace Engineering 
 at Princeton University, working with [Dean Emily A. Carter](https://carter.princeton.edu/). 
