@@ -32,12 +32,10 @@ R. B. Wexler, J. M. P. Martirez, and A. M. Rappe, Stable Phosphorus Enriched (00
 
 ### <span style="color:#0033cc">Plasmon-driven catalysis</span>
 
-#### Nitrogen Activation on Functionalized Plasmon-Active Au
-
+#### Catalysis on Surfacep-Functionalized Plasmonic Metals
 <p align="center">
-<img align="right" style="margin: 0px 20px" src="https://martirez.github.io/AuFe-N2-path2.gif" width="280">
+<img src="https://martirez.github.io/TOC-AuFe-N2.png" width="450">
 </p>
-#### <span style="color:#0033cc">Plasmon-Driven Catalysis on Metals </span>
 
 Nanoplasmonics is recognized to be one of the potentially transformative methods for photo-driven heterogeneous catalysis. Localized surface plasmon resonances (LSPRs) can greatly influence chemical processes occurring on a metal catalysts’ surface via energetic charge-carrier generation, local field enhancement, local heating, or combinations thereof. 
 
