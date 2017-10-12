@@ -34,7 +34,14 @@ R. B. Wexler, J. M. P. Martirez, and A. M. Rappe, Stable Phosphorus Enriched (00
 
 #### Nitrogen Activation on Functionalized Plasmon-Active Au
 
-N2 dissociation on Fe-doped Au(111) surface
+<p align="center">
+<img align="right" style="margin: 0px 20px" src="https://martirez.github.io/AuFe-N2-path2.gif" width="280">
+</p>
+#### <span style="color:#0033cc">Plasmon-Driven Catalysis on Metals </span>
+
+Nanoplasmonics is recognized to be one of the potentially transformative methods for photo-driven heterogeneous catalysis. Localized surface plasmon resonances (LSPRs) can greatly influence chemical processes occurring on a metal catalysts’ surface via energetic charge-carrier generation, local field enhancement, local heating, or combinations thereof. 
+
+Recently, we show that the N2 dissociation barrier can be effectively reduced via accessing electronically excited-states, which we predicted via the embedded n-electron valence second order perturbation theory. 
 
 Published in: J. M. P. Martirez, and E. A. Carter, Excited-State N<sub>2</sub> Dissociation Pathway on Fe-Functionalized Au. J.  Am. Chem. Soc., 139, 4390-4398 (2017)
 
