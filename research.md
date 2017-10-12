@@ -1,6 +1,6 @@
 ## Current Research
 
-### <span style="color:#0033cc">(Photo)electrochemical Water Splitting</span>
+#### <span style="color:#0033cc">(Photo)electrochemical Water Splitting</span>
 
 #### Oxygen Evolution Reaction (OER)
 
@@ -30,7 +30,7 @@ Published in: R. B. Wexler, J. M. P. Martirez, and A. M. Rappe, Active Role of P
 
 R. B. Wexler, J. M. P. Martirez, and A. M. Rappe, Stable Phosphorus Enriched (0001) Surfaces of Nickel Phosphides. Chem. Mater. 28, 5365-5372 (2016)
 
-### <span style="color:#0033cc">Plasmon-driven catalysis</span>
+#### <span style="color:#0033cc">Plasmon-driven catalysis</span>
 
 #### Catalysis on Surfacep-Functionalized Plasmonic Metals
 <p align="center">
@@ -43,7 +43,7 @@ Recently, we show that the N2 dissociation barrier can be effectively reduced vi
 
 Published in: J. M. P. Martirez, and E. A. Carter, Excited-State N<sub>2</sub> Dissociation Pathway on Fe-Functionalized Au. J.  Am. Chem. Soc., 139, 4390-4398 (2017)
 
-### <span style="color:#0033cc">Understanding equilibrium and non-equilibrium phases of oxide surfaces</span>
+#### <span style="color:#0033cc">Understanding equilibrium and non-equilibrium phases of oxide surfaces</span>
 
 #### Coexistence of reconstructed surface phases : thermodynamics vs. kinetics
 <p align="center">
