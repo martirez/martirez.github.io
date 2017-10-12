@@ -21,7 +21,7 @@ Compositionally rich surface phases of HER-active NixPy compounds
 </p>
 
 <p align="center">
-<img src="https://martirez.github.io/TOC-NiP-H2.png" width="450">
+<img src="https://martirez.github.io/TOC-NiP-H2.png" width="400">
 </p>
 
 Ni2P and Ni5P4 are among the most promising alternatives to Pt as cathodes for water splitting. The origin of their activities is likely derived from P atoms that dominate their surfaces. We predict P-rich stable surface reconstructions, which provide clues into what makes Ni5P4 better than Ni2P in HER activity. Indeed, probing the reactivity of these P-rich surfaces reveal that phosphorous plays the primariry role, not Ni, in catalyzing H2 production on nickel phosphides.  
@@ -34,7 +34,7 @@ R. B. Wexler, J. M. P. Martirez, and A. M. Rappe, Stable Phosphorus Enriched (00
 
 #### Catalysis on Surfacep-Functionalized Plasmonic Metals
 <p align="center">
-<img src="https://martirez.github.io/TOC-AuFe-N2.png" width="450">
+<img src="https://martirez.github.io/TOC-AuFe-N2.png" width="400">
 </p>
 
 Nanoplasmonics is recognized to be one of the potentially transformative methods for photo-driven heterogeneous catalysis. Localized surface plasmon resonances (LSPRs) can greatly influence chemical processes occurring on a metal catalysts’ surface via energetic charge-carrier generation, local field enhancement, local heating, or combinations thereof. 
