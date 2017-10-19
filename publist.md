@@ -12,6 +12,9 @@ J. M. P. Martirez, S. Kim, and A. M. Rappe, Synergistic Oxygen Evolving Activity
 </li>
 
 <li> J. M. P. Martirez, and E. A. Carter, Prediction of a Low-Temperature N2 Dissociation Catalyst Exploiting Near IR-to-Visible Light Nanoplasmonics. Sci. Adv., under review  (2017) 
+<p align="center">
+<img src="https://martirez.github.io/TOC-AuMo-N2.png" width="300">
+</p>
 </li>
 
 
