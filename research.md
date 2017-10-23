@@ -1,4 +1,10 @@
-## Current Research
+### Future Research
+Summary Poster
+<p align="center">
+<img src="MARTIREZ-Research-summary.pdf" width="620">
+</p>
+
+### Current Research
 
 #### <span style="color:#0033cc">(Photo)electrochemical Water Splitting</span>
 
