@@ -1,7 +1,7 @@
 ### Future Research
 Summary Poster
 <p align="center">
-<img src="MARTIREZ-Research-summary.png" width="620">
+<img src="MARTIREZ-Research-summary.png" width="720">
 </p>
 
 ### Current Research
