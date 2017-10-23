@@ -1,5 +1,5 @@
 ### Future Research
-Summary Poster
+[Summary Poster](https://martirez.github.io/MARTIREZ-Research-summary.png)  
 <p align="center">
 <img src="MARTIREZ-Research-summary.png" width="720">
 </p>
