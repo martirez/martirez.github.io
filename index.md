@@ -1,7 +1,8 @@
 ## John Mark P. Martirez, Ph. D. 
 email: MARTIREZ (at) princeton.edu
 
-[Curriculum Vitae](https://martirez.github.io/MARTIREZ-JMP-CV.pdf)  &nbsp;&nbsp;&nbsp; [Statement of Future Research](https://martirez.github.io/MARTIREZ-JMP-Research.pdf)  &nbsp;&nbsp;&nbsp; [Future Research (summary slide)](https://martirez.github.io/MARTIREZ-JMP-Research-summary.pdf)  
+[Curriculum Vitae](https://martirez.github.io/MARTIREZ-JMP-CV.pdf)  &nbsp;&nbsp;&nbsp; [Statement of Future Research](https://martirez.github.io/MARTIREZ-JMP-Research.pdf)  &nbsp;&nbsp;&nbsp; 
+[Future Research (summary slide)](https://martirez.github.io/MARTIREZ-JMP-Research-summary.pdf)  
 
 [Google scholar profile](https://scholar.google.com/citations?user=_PiDROMAAAAJ&hl=en)
 
