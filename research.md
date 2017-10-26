@@ -38,7 +38,7 @@ R. B. Wexler, J. M. P. Martirez, and A. M. Rappe, Stable Phosphorus Enriched (00
 
 #### <span style="color:#0033cc">Plasmon-driven catalysis</span>
 
-#### Catalysis on Surfacep-Functionalized Plasmonic Metals
+#### Catalysis on Surface-Functionalized Plasmonic Metals
 <p align="center">
 <img src="https://martirez.github.io/TOC-AuFe-N2.png" width="350">
 </p>
