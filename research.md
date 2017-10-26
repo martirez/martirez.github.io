@@ -32,7 +32,7 @@ Compositionally rich surface phases of HER-active NixPy compounds
 
 Ni2P and Ni5P4 are among the most promising alternatives to Pt as cathodes for water splitting. The origin of their activities is likely derived from P atoms that dominate their surfaces. We predict P-rich stable surface reconstructions, which provide clues into what makes Ni5P4 better than Ni2P in HER activity. Indeed, probing the reactivity of these P-rich surfaces reveal that phosphorous plays the primariry role, not Ni, in catalyzing H2 production on nickel phosphides.  
 
-Published in: R. B. Wexler, J. M. P. Martirez, and A. M. Rappe, Active Role of Phosphorus in the Hydrogen Evolving Activity of Nickel Phosphide (0001) Surfaces. ACS Catal., in press (2017)
+Published in: R. B. Wexler, J. M. P. Martirez, and A. M. Rappe, Active Role of Phosphorus in the Hydrogen Evolving Activity of Nickel Phosphide (0001) Surfaces. ACS Catal., 7, 7718-7725 (2017)
 
 R. B. Wexler, J. M. P. Martirez, and A. M. Rappe, Stable Phosphorus Enriched (0001) Surfaces of Nickel Phosphides. Chem. Mater. 28, 5365-5372 (2016)
 
