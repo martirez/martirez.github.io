@@ -40,7 +40,8 @@ J. M. P. Martirez, and E. A. Carter, Prediction of a Low-Temperature N2 Dissocia
 
 <p align="center">
 <img src="https://martirez.github.io/TOC-AuMo-N2.png" width="350">
-  
+</p>
+
 R. B. Wexler, J. M. P. Martirez, and A. M. Rappe, Active Role of Phosphorus in the Hydrogen Evolving Activity of Nickel Phosphide (0001) Surfaces. ACS Catal., 7, 7718-7725 (2017) 
 
 <p align="center">
