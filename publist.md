@@ -11,7 +11,7 @@ J. M. P. Martirez, S. Kim, and A. M. Rappe, Synergistic Oxygen Evolving Activity
 <li> L. D. Chen, M. Bajdich, J. M. P. Martirez, C. M. Krauter, J. A. Gauthier, E. A. Carter, A. C. Luntz, K. Chan, and J. K. Nørskov, Understanding the apparent fractional charge of ions in the aqueous electrochemical double layer. Nat. Commun., under review  (2017) 
 </li>
 
-<li> J. M. P. Martirez, and E. A. Carter, Prediction of a Low-Temperature N2 Dissociation Catalyst Exploiting Near IR-to-Visible Light Nanoplasmonics. Sci. Adv., accepted  (2017) 
+<li> J. M. P. Martirez, and E. A. Carter, Prediction of a Low-Temperature N2 Dissociation Catalyst Exploiting Near IR-to-Visible Light Nanoplasmonics. Sci. Adv., 3, eaao4710  (2017) 
 <p align="center">
 <img src="https://martirez.github.io/TOC-AuMo-N2.png" width="350">
 </p>
