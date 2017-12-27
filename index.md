@@ -36,7 +36,7 @@ Published in E. H. Morales, J. M. P. Martirez, W. A. Saidi, A. M. Rappe, and D. 
 ### <span style="color:#404040">Recent Publications</span>
 [Complete list](publist.md)
 
-J. M. P. Martirez, and E. A. Carter, Prediction of a Low-Temperature N2 Dissociation Catalyst Exploiting Near IR-to-Visible Light Nanoplasmonics. Sci. Adv., accepted  (2017) 
+J. M. P. Martirez, and E. A. Carter, Prediction of a Low-Temperature N2 Dissociation Catalyst Exploiting Near IR-to-Visible Light Nanoplasmonics. Sci. Adv., 3, eaao4710 (2017) 
 
 <p align="center">
 <img src="https://martirez.github.io/TOC-AuMo-N2.png" width="350">
