@@ -3,9 +3,8 @@ email: MARTIREZ (at) princeton.edu
 
 [Curriculum Vitae (12/28/2017)](https://martirez.github.io/MARTIREZ-JMP-CV.pdf)  &nbsp;&nbsp;&nbsp; 
 [Statement of Future Research](https://martirez.github.io/MARTIREZ-JMP-Research.pdf)  &nbsp;&nbsp;&nbsp; 
-[Future Research (summary slide)](https://martirez.github.io/MARTIREZ-Research-summary.png)  
 
-[Google scholar profile](https://scholar.google.com/citations?user=_PiDROMAAAAJ&hl=en)
+[Future Research (summary slide)](https://martirez.github.io/MARTIREZ-Research-summary.png) &nbsp;&nbsp;&nbsp; [Google scholar profile](https://scholar.google.com/citations?user=_PiDROMAAAAJ&hl=en)
 
 I'm currently a postdoctoral research associate in the Department of Mechanical and Aerospace Engineering 
 at Princeton University, working with [Dean Emily A. Carter](https://carter.princeton.edu/). 
