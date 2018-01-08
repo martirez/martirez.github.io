@@ -11,7 +11,9 @@ I use state-of-the-art computational tools in fields where atomic-scale informat
 [Statement of Future Research](https://martirez.github.io/MARTIREZ-JMP-Research.pdf)  &nbsp;&nbsp;&nbsp; [Future Research (summary slide)](https://martirez.github.io/MARTIREZ-Research-summary.png)
 
 ### <span style="color:#404040">Research Highlights</span>
-
+<p align="center">
+<img src="https://martirez.github.io/Carter-Martirez-figure-v2.png" width="370">
+</p>
 Our paper J. M. P. Martirez, and E. A. Carter, Prediction of a Low-Temperature N2 Dissociation Catalyst Exploiting Near IR-to-Visible Light Nanoplasmonics. Sci. Adv., 3, eaao4710 (2017) was recetly featured in [Chemical and Engineering News](https://cen.acs.org/articles/96/web/2018/01/Lowering-temperature-nitrogen-splitting.html)
 
 <p align="center">
