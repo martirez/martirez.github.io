@@ -12,7 +12,7 @@ I use state-of-the-art computational tools in fields where atomic-scale informat
 
 ### <span style="color:#404040">Research Highlights</span>
 <p align="center">
-<img src="https://martirez.github.io/Carter-Martirez-figure-v2.png" width="370">
+<img src="https://martirez.github.io/Carter-Martirez-figure-v2.png" width="400">
 </p>
 Our paper J. M. P. Martirez, and E. A. Carter, Prediction of a Low-Temperature N2 Dissociation Catalyst Exploiting Near IR-to-Visible Light Nanoplasmonics. Sci. Adv., 3, eaao4710 (2017) was recetly featured in [Chemical and Engineering News](https://cen.acs.org/articles/96/web/2018/01/Lowering-temperature-nitrogen-splitting.html)
 
