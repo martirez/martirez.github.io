@@ -8,7 +8,7 @@ at Princeton University, working with [Dean Emily A. Carter](https://carter.prin
 
 <p>
 <img align="right" src="https://martirez.github.io/Carter-Martirez.jpg" width="290">
-<caption>Dean Carter (left) and me (right)</caption>
+<p align="right">Dean Carter (left) and me (right)</p>
 </p>
 
 I use state-of-the-art computational tools in fields where atomic-scale information delivers unparalleled chemical design principles. 
