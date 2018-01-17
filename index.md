@@ -9,7 +9,7 @@ at Princeton University, working with [Dean Emily A. Carter](https://carter.prin
 <p>
 <figure>
 <img align="right" src="https://martirez.github.io/Carter-Martirez.jpg" width="290">
-<figcaption>Dean Carter (left) and me (right).</figcaption>
+<figcaption align="right"> Dean Carter (left) and me (right).</figcaption>
 </figure>
 </p>
 
