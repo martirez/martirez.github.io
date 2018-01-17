@@ -13,6 +13,7 @@ The main thrust of my work is using first-principles density functional theory (
 This includes computational investigations on manipulation of reactions via new or surface-modified heterogeneous catalysts and introduction of co-catalysts. The foundation of my work lay on the identification of key species and pathways in catalysis from first-principles quantum mechanics.
  
 <p align="right">Dean Carter (left) and me (right)</p>
+
 [Statement of Future Research](https://martirez.github.io/MARTIREZ-JMP-Research.pdf)  &nbsp;&nbsp;&nbsp; [Future Research (summary slide)](https://martirez.github.io/MARTIREZ-Research-summary.png)
 
 
