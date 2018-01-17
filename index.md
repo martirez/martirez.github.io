@@ -6,13 +6,14 @@ email: MARTIREZ (at) princeton.edu
 I'm currently a postdoctoral research associate in the Department of Mechanical and Aerospace Engineering 
 at Princeton University, working with [Dean Emily A. Carter](https://carter.princeton.edu/). 
 
+<figure>
+<img align="right" src="https://martirez.github.io/Carter-Martirez.jpg" width="290">
+<caption align="bottom">Dean Carter (left) and me (right)</caption>
+</figure>
 
 I use state-of-the-art computational tools in fields where atomic-scale information delivers unparalleled chemical design principles. 
-<img align="right" src="https://martirez.github.io/Carter-Martirez.jpg" width="290">
 The main thrust of my work is using first-principles density functional theory (DFT) and embedded correlated wavefunction (emb-CW) methods to guide experimentalists in finding alternative and unconventional reaction pathways and catalysts for industrially relevant reactions. 
 This includes computational investigations on manipulation of reactions via new or surface-modified heterogeneous catalysts and introduction of co-catalysts. The foundation of my work lay on the identification of key species and pathways in catalysis from first-principles quantum mechanics.
- 
-<p align="right">Dean Carter (left) and me (right)</p>
 
 [Statement of Future Research](https://martirez.github.io/MARTIREZ-JMP-Research.pdf)  &nbsp;&nbsp;&nbsp; [Future Research (summary slide)](https://martirez.github.io/MARTIREZ-Research-summary.png)
 
