@@ -19,6 +19,7 @@ at Princeton University, working with [Dean Emily A. Carter](https://carter.prin
 </tr>
 </table>
 </p>
+
 I use state-of-the-art computational tools in fields where atomic-scale information delivers unparalleled chemical design principles. 
 The main thrust of my work is using first-principles density functional theory (DFT) and embedded correlated wavefunction (emb-CW) methods to guide experimentalists in finding alternative and unconventional reaction pathways and catalysts for industrially relevant reactions. 
 This includes computational investigations on manipulation of reactions via new or surface-modified heterogeneous catalysts and introduction of co-catalysts. The foundation of my work lay on the identification of key species and pathways in catalysis from first-principles quantum mechanics.
