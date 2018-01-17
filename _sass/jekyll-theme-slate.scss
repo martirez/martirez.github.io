@@ -40,13 +40,14 @@ table {
 }
 
 table {
-    border: 0
     float: right; /* floats the table to the right,
                      allowing text to wrap around it */
     margin: 4px; /* adds buffer space around the table */
 }
-
-
+table, th, td
+{
+  border: 0;
+}
 
 /*******************************************************************************
 Theme Styles
