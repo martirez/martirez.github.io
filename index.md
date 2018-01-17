@@ -6,7 +6,7 @@ email: MARTIREZ (at) princeton.edu
 I'm currently a postdoctoral research associate in the Department of Mechanical and Aerospace Engineering 
 at Princeton University, working with [Dean Emily A. Carter](https://carter.princeton.edu/). 
 
-<figure align="center">
+<figure>
 <img align="right" style="margin: 0px 20px" src="https://martirez.github.io/Carter-Martirez.jpg" width="290">
 <figcaption>Dean Carter (left) and me (right).</figcaption>
 </figure>
