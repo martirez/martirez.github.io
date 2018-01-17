@@ -10,6 +10,10 @@ I use state-of-the-art computational tools in fields where atomic-scale informat
 
 [Statement of Future Research](https://martirez.github.io/MARTIREZ-JMP-Research.pdf)  &nbsp;&nbsp;&nbsp; [Future Research (summary slide)](https://martirez.github.io/MARTIREZ-Research-summary.png)
 
+<p align="center">
+<img align="left" style="margin: 0px 20px" src="https://martirez.github.io/Carter-Martirez.jpg" width="290">
+</p>
+
 ### <span style="color:#404040">Research Highlights</span>
 <p align="center">
 <img src="https://martirez.github.io/Carter-Martirez-figure-v2.png" width="500">
