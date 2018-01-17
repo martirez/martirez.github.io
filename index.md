@@ -7,7 +7,7 @@ I'm currently a postdoctoral research associate in the Department of Mechanical 
 at Princeton University, working with [Dean Emily A. Carter](https://carter.princeton.edu/). 
 
 <p align="right"> Dean Carter (left) and me (right) </p>
-//
+&nbsp;
 <p>
 <img align="right" src="https://martirez.github.io/Carter-Martirez.jpg" width="290">
 </p>
