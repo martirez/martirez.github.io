@@ -42,7 +42,7 @@ table {
 table {
     float: right; /* floats the table to the right,
                      allowing text to wrap around it */
-    margin: 4px; /* adds buffer space around the table */
+    margin: 2px; /* adds buffer space around the table */
 }
 
 /*******************************************************************************
@@ -237,19 +237,19 @@ hr {
 
 table {
   border: 0px solid #373737;
-  margin-bottom: 8px;
+  margin-bottom: 2px;
   text-align: left;
  }
 
 th {
   font-family: 'Lucida Grande', 'Helvetica Neue', Helvetica, Arial, sans-serif;
-  padding: 4px;
+  padding: 0px;
   background: #373737;
   color: #fff;
  }
 
 td {
-  padding: 4px;
+  padding: 0px;
   border: 0px solid #373737;
  }
 
