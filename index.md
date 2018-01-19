@@ -14,7 +14,7 @@ at Princeton University, working with [Dean Emily A. Carter](https://carter.prin
 </tr>
   <tr>
     <td>
-<p align="center">Dean Carter (left) and me (right)</p>
+<p align="center">Dean Carter (left) and myself (right)</p>
     </td>
 </tr>
 </table>
