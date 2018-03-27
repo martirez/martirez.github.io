@@ -1,7 +1,7 @@
 ### JOHN MARK P. MARTIREZ, Ph. D. 
 email: MARTIREZ (at) princeton.edu
 
-[Curriculum Vitae (03/19/2018)](https://martirez.github.io/MARTIREZ-JMP-CV.pdf)  &nbsp;&nbsp;&nbsp; [Google scholar profile](https://scholar.google.com/citations?user=_PiDROMAAAAJ&hl=en)
+[Curriculum Vitae (03/27/2018)](https://martirez.github.io/MARTIREZ-JMP-CV.pdf)  &nbsp;&nbsp;&nbsp; [Google scholar profile](https://scholar.google.com/citations?user=_PiDROMAAAAJ&hl=en)
 
 I'm currently a postdoctoral research associate in the Department of Mechanical and Aerospace Engineering 
 at Princeton University, working with [Dean Emily A. Carter](https://carter.princeton.edu/). 
@@ -55,6 +55,8 @@ Published in E. H. Morales, J. M. P. Martirez, W. A. Saidi, A. M. Rappe, and D. 
 
 ### <span style="color:#404040">Recent Publications</span>
 [Complete list](publist.md)
+
+R. B. Wexler, J. M. P. Martirez, and A. M. Rappe, Chemical Pressure-Driven Enhancement of the Hydrogen Evolving Activity of Ni2P from Nonmetal Surface Doping Interpreted via Machine Learning.  J. Am. Chem. Soc., ASAP (2018) 
 
 J. M. P. Martirez, and E. A. Carter, Prediction of a Low-Temperature N2 Dissociation Catalyst Exploiting Near IR-to-Visible Light Nanoplasmonics. Sci. Adv., 3, eaao4710 (2017) 
 
