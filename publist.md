@@ -1,5 +1,9 @@
 ## Patents
 <ol reversed>
+
+<li> J. M. P. Martirez and E. A. Carter, Plasmonic Haber-Bosch catalysts based on surface-doped Au nanoparticles. provisional application No. 62/638,728 (filed on: March 5, 2018)
+</li>
+
 <li> 
 J. M. P. Martirez, S. Kim, and A. M. Rappe, Synergistic Oxygen Evolving Activity of Non-Stoichiometric Surfaces. United States Letters Patent No.: 9,469,908. Issued October 18, 2016
 </li>
@@ -7,6 +11,9 @@ J. M. P. Martirez, S. Kim, and A. M. Rappe, Synergistic Oxygen Evolving Activity
 
 ## Publications
 <ol reversed>
+
+<li>R. B. Wexler, J. M. P. Martirez, and A. M. Rappe, Chemical Pressure-Driven Enhancement of the Hydrogen Evolving Activity of Ni2P from Nonmetal Surface Doping Interpreted via Machine Learning.  J. Am. Chem. Soc., ASAP (2018) </li>
+
 
 <li> L. D. Chen, M. Bajdich, J. M. P. Martirez, C. M. Krauter, J. A. Gauthier, E. A. Carter, A. C. Luntz, K. Chan, and J. K. Nørskov, Understanding the apparent fractional charge of ions in the aqueous electrochemical double layer. Nat. Commun., under review  (2017) 
 </li>
