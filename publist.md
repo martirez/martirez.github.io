@@ -12,10 +12,22 @@ J. M. P. Martirez, S. Kim, and A. M. Rappe, Synergistic Oxygen Evolving Activity
 ## Publications
 <ol reversed>
 
-<li>R. B. Wexler, J. M. P. Martirez, and A. M. Rappe, Chemical Pressure-Driven Enhancement of the Hydrogen Evolving Activity of Ni2P from Nonmetal Surface Doping Interpreted via Machine Learning.  J. Am. Chem. Soc., ASAP (2018) </li>
+<li> Z. Chen,* J. M. P. Martirez,* P. Zahl, E. A. Carter, and B. E. Koel, Self-Assembling of Formic Acid on the Partially Oxidized p(2x1) Cu(110) Surface Reconstruction at Low Coverages. under review (2018) 
+</li>
 
+<li> A. J. Tkalych, J. M. P. Martirez, and E. A. Carter, Thermodynamic evaluation of trace-amount transition-metal ion doping in NiOOH films. under review (2018)
+</li>
 
-<li> L. D. Chen, M. Bajdich, J. M. P. Martirez, C. M. Krauter, J. A. Gauthier, E. A. Carter, A. C. Luntz, K. Chan, and J. K. Nørskov, Understanding the apparent fractional charge of ions in the aqueous electrochemical double layer. Nat. Commun., under review  (2017) 
+<li> J. M. P. Martirez, and E. A. Carter, Effects of the Aqueous Environment on the Stability and Chemistry of β-NiOOH Surfaces. Chem. Mater., in press (2018) DOI: 10.1021/acs.chemmater.8b01866
+</li>
+
+<li> A. J. Tkalych, J. M. P. Martirez, and E. A. Carter, Effect of transition-metal-ion dopants on the oxygen evolution reaction on NiOOH(0001). Phys. Chem. Chem. Phys., in press (2018) DOI: 10.1039/C8CP02849D
+</li>
+
+<li> L. D. Chen, M. Bajdich, J. M. P. Martirez, C. M. Krauter, J. A. Gauthier, E. A. Carter, A. C. Luntz, K. Chan, and J. K. Nørskov, Understanding the apparent fractional charge of ions in the aqueous electrochemical double layer. Nat. Commun., in press (2018)
+</li>
+
+<li> R. B. Wexler, J. M. P. Martirez, and A. M. Rappe, Chemical Pressure-Driven Enhancement of the Hydrogen Evolving Activity of Ni2P from Nonmetal Surface Doping Interpreted via Machine Learning.  J. Am. Chem. Soc.,140, 4678-4683 (2018)  
 </li>
 
 <li> J. M. P. Martirez, and E. A. Carter, Prediction of a Low-Temperature N2 Dissociation Catalyst Exploiting Near IR-to-Visible Light Nanoplasmonics. Sci. Adv., 3, eaao4710  (2017) 
