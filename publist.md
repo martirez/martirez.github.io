@@ -12,7 +12,7 @@ J. M. P. Martirez, S. Kim, and A. M. Rappe, Synergistic Oxygen Evolving Activity
 ## Publications
 <ol reversed>
 
-<li> Z. Chen,* J. M. P. Martirez,* P. Zahl, E. A. Carter, and B. E. Koel, Self-Assembling of Formic Acid on the Partially Oxidized p(2x1) Cu(110) Surface Reconstruction at Low Coverages. under review (2018) 
+<li> Z. Chen, J. M. P. Martirez, P. Zahl, E. A. Carter, and B. E. Koel, Self-Assembling of Formic Acid on the Partially Oxidized p(2x1) Cu(110) Surface Reconstruction at Low Coverages. under review (2018) 
 </li>
 
 <li> A. J. Tkalych, J. M. P. Martirez, and E. A. Carter, Thermodynamic evaluation of trace-amount transition-metal ion doping in NiOOH films. under review (2018)
