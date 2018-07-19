@@ -12,6 +12,10 @@ J. M. P. Martirez, S. Kim, and A. M. Rappe, Synergistic Oxygen Evolving Activity
 ## Publications
 <ol reversed>
 
+<li>
+J. M. P. Martirez, and E. A. Carter, Unraveling Oxygen Evolution on Iron-Doped β-Nickel Oxyhydroxide: the Key Role of Highly Active Molecular-like Sites. submitted (2018)   
+</li>
+
 <li> Z. Chen, J. M. P. Martirez, P. Zahl, E. A. Carter, and B. E. Koel, Self-Assembling of Formic Acid on the Partially Oxidized p(2x1) Cu(110) Surface Reconstruction at Low Coverages. under review (2018) 
 </li>
 
@@ -19,7 +23,11 @@ J. M. P. Martirez, S. Kim, and A. M. Rappe, Synergistic Oxygen Evolving Activity
 </li>
 
 <li> J. M. P. Martirez, and E. A. Carter, Effects of the Aqueous Environment on the Stability and Chemistry of β-NiOOH Surfaces. Chem. Mater., in press (2018) DOI: 10.1021/acs.chemmater.8b01866
+<p align="center">
+<img src="https://martirez.github.io/TOC-NiOOH-ChemMater.png" width="350">
+</p>
 </li>
+
 
 <li> A. J. Tkalych, J. M. P. Martirez, and E. A. Carter, Effect of transition-metal-ion dopants on the oxygen evolution reaction on NiOOH(0001). Phys. Chem. Chem. Phys., in press (2018) DOI: 10.1039/C8CP02849D
 </li>
