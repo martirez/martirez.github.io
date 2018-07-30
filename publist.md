@@ -19,7 +19,7 @@ J. M. P. Martirez, and E. A. Carter, Unraveling Oxygen Evolution on Iron-Doped Î
 <li> Z. Chen, J. M. P. Martirez, P. Zahl, E. A. Carter, and B. E. Koel, Self-Assembling of Formic Acid on the Partially Oxidized p(2x1) Cu(110) Surface Reconstruction at Low Coverages. under review (2018) 
 </li>
 
-<li> A. J. Tkalych, J. M. P. Martirez, and E. A. Carter, Thermodynamic evaluation of trace-amount transition-metal ion doping in NiOOH films. under review (2018)
+<li> A. J. Tkalych, J. M. P. Martirez, and E. A. Carter, Thermodynamic evaluation of trace-amount transition-metal ion doping in NiOOH films. J. Electrochem. Soc., in press (2018)
 </li>
 
 <li> J. M. P. Martirez, and E. A. Carter, Effects of the Aqueous Environment on the Stability and Chemistry of Î²-NiOOH Surfaces. Chem. Mater., in press (2018) DOI: 10.1021/acs.chemmater.8b01866
@@ -29,7 +29,7 @@ J. M. P. Martirez, and E. A. Carter, Unraveling Oxygen Evolution on Iron-Doped Î
 </li>
 
 
-<li> A. J. Tkalych, J. M. P. Martirez, and E. A. Carter, Effect of transition-metal-ion dopants on the oxygen evolution reaction on NiOOH(0001). Phys. Chem. Chem. Phys., in press (2018) DOI: 10.1039/C8CP02849D
+<li> A. J. Tkalych, J. M. P. Martirez, and E. A. Carter, Effect of transition-metal-ion dopants on the oxygen evolution reaction on NiOOH(0001). Phys. Chem. Chem. Phys., 20, 19525-19531 (2018) DOI: 10.1039/C8CP02849D
 </li>
 
 <li> L. D. Chen, M. Bajdich, J. M. P. Martirez, C. M. Krauter, J. A. Gauthier, E. A. Carter, A. C. Luntz, K. Chan, and J. K. NÃ¸rskov, Understanding the apparent fractional charge of ions in the aqueous electrochemical double layer. Nat. Commun., in press (2018)
