@@ -68,7 +68,7 @@ J. M. P. Martirez, and E. A. Carter, Effects of the Aqueous Environment on the S
 <img src="https://martirez.github.io/TOC-NiOOH-ChemMater.png" width="350">
 </p>
 
-A. J. Tkalych, J. M. P. Martirez, and E. A. Carter, Effect of transition-metal-ion dopants on the oxygen evolution reaction on NiOOH(0001). Phys. Chem. Chem. Phys., 20, 19525-19531 (2018) DOI: 10.1039/C8CP02849D
+A. J. Tkalych, J. M. P. Martirez, and E. A. Carter, Effect of transition-metal-ion dopants on the oxygen evolution reaction on NiOOH(0001). Phys. Chem. Chem. Phys., 20, 19525-19531 (2018)
 
 L. D. Chen, M. Bajdich, J. M. P. Martirez, C. M. Krauter, J. A. Gauthier, E. A. Carter, A. C. Luntz, K. Chan, and J. K. Nørskov, Understanding the apparent fractional charge of ions in the aqueous electrochemical double layer. Nat. Commun., in press (2018)
 
