@@ -29,7 +29,7 @@ J. M. P. Martirez, and E. A. Carter, Unraveling Oxygen Evolution on Iron-Doped Î
 </li>
 
 
-<li> A. J. Tkalych, J. M. P. Martirez, and E. A. Carter, Effect of transition-metal-ion dopants on the oxygen evolution reaction on NiOOH(0001). Phys. Chem. Chem. Phys., 20, 19525-19531 (2018) DOI: 10.1039/C8CP02849D
+<li> A. J. Tkalych, J. M. P. Martirez, and E. A. Carter, Effect of transition-metal-ion dopants on the oxygen evolution reaction on NiOOH(0001). Phys. Chem. Chem. Phys., 20, 19525-19531 (2018) 
 </li>
 
 <li> L. D. Chen, M. Bajdich, J. M. P. Martirez, C. M. Krauter, J. A. Gauthier, E. A. Carter, A. C. Luntz, K. Chan, and J. K. NÃ¸rskov, Understanding the apparent fractional charge of ions in the aqueous electrochemical double layer. Nat. Commun., in press (2018)
