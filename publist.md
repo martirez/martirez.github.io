@@ -22,7 +22,7 @@ J. M. P. Martirez, and E. A. Carter, Unraveling Oxygen Evolution on Iron-Doped �
 <li> A. J. Tkalych, J. M. P. Martirez, and E. A. Carter, Thermodynamic evaluation of trace-amount transition-metal ion doping in NiOOH films. J. Electrochem. Soc., 165, F907-F913 (2018) 
 </li>
 
-<li> J. M. P. Martirez, and E. A. Carter, Effects of the Aqueous Environment on the Stability and Chemistry of β-NiOOH Surfaces. Chem. Mater., 30, 52055219 (2018) 
+<li> J. M. P. Martirez, and E. A. Carter, Effects of the Aqueous Environment on the Stability and Chemistry of β-NiOOH Surfaces. Chem. Mater., 30, 5205-5219 (2018) 
 <p align="center">
 <img src="https://martirez.github.io/TOC-NiOOH-ChemMater.png" width="350">
 </p>
