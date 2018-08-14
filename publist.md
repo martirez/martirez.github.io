@@ -1,7 +1,7 @@
 ## Patents
 <ol reversed>
 
-<li> J. M. P. Martirez and E. A. Carter, Plasmonic Haber-Bosch catalysts based on surface-doped Au nanoparticles. provisional application No. 62/638,728 (filed on: March 5, 2018)
+<li> J. M. P. Martirez and E. A. Carter, Plasmonic Haber-Bosch catalysts based on surface-doped Au nanoparticles. provisional patent application No. 62/638,728 (filed on: March 5, 2018)
 </li>
 
 <li> 
