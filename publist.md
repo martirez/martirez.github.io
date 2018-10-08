@@ -10,9 +10,10 @@ J. M. P. Martirez, S. Kim, and A. M. Rappe, Synergistic Oxygen Evolving Activity
 </ol>
 
 ## Publications
+
 <ol reversed>
 
-### 2018
+<h>2018</h>
 
 <li>
 J. M. P. Martirez, and E. A. Carter, Unraveling Oxygen Evolution on Iron-Doped β-Nickel Oxyhydroxide: the Key Role of Highly Active Molecular-like Sites. under review (2018)   
@@ -40,14 +41,13 @@ J. M. P. Martirez, and E. A. Carter, Unraveling Oxygen Evolution on Iron-Doped �
 <li> R. B. Wexler, J. M. P. Martirez, and A. M. Rappe, Chemical Pressure-Driven Enhancement of the Hydrogen Evolving Activity of Ni2P from Nonmetal Surface Doping Interpreted via Machine Learning.  J. Am. Chem. Soc.,140, 4678-4683 (2018)  
 </li>
 
-### 2017
-
+2017
+  
 <li> J. M. P. Martirez, and E. A. Carter, Prediction of a Low-Temperature N2 Dissociation Catalyst Exploiting Near IR-to-Visible Light Nanoplasmonics. Sci. Adv., 3, eaao4710  (2017) 
 <p align="center">
 <img src="https://martirez.github.io/TOC-AuMo-N2.png" width="350">
 </p>
 </li>
-
 
 <li> 
 R. B. Wexler, J. M. P. Martirez, and A. M. Rappe, Active Role of Phosphorus in the Hydrogen Evolving Activity of Nickel Phosphide (0001) Surfaces. ACS Catal., 7, 7718-7725 (2017) 
@@ -62,7 +62,7 @@ R. B. Wexler, J. M. P. Martirez, and A. M. Rappe, Active Role of Phosphorus in t
 </p>
 </li>
 
-### 2016
+2016
 
 <li>
 D. F. Swearer, H. Zhao, L. Zhou, C. Zhang, H. Robatjazi, J. M. P. Martirez, C. M. Krauter, S. Yazdi, M. J. McClain, E. Ringe, E. A. Carter, P. Nordlander, N. J. Halas, Heterometallic Antenna-Reactor Complexes for Photocatalysis. Proc. Natl. Acad. Sci. 113, 8916-8920 (2016) 
@@ -82,7 +82,7 @@ J. M. P. Martirez, and E. A. Carter, Thermodynamic Constraints in Using AuM (M= 
 </p>
 </li>
 
-### 2015
+2015
 
 <li>
 Y. Qi, J. M. P. Martirez, W. A. Saidi, J.J. Urban, W.S. Yun, J.E. Spanier and A. M. Rappe, Modified Schottky emission to explain thickness dependence and slow depolarization in BaTiO3 nanowires. Phys. Rev. B 91, 245431 (2015) 
@@ -97,7 +97,7 @@ J. M. P. Martirez, S. Kim, E. H. Morales, B. T. Diroll, M. Cargnello, T. R. Gord
 C. Baeumer, D. Saldana-Greco, J. M. P. Martirez, A. M. Rappe, M. Shim, and L. W. Martin, Ferroelectrically Driven Spatial Carrier Density Modulation in Graphene. Nat. Commun. 6:6136 (2015) 
 </li>
 
-### 2014 
+2014 
 
 <li>
 W. A. Saidi, J. M. P. Martirez, and A. M. Rappe, Strong Reciprocal Interaction between Polarization and Surface Stoichiometry in Ferroelectric Oxides. Nano Lett. 14, 6711-6717 (2014) 
@@ -105,6 +105,7 @@ W. A. Saidi, J. M. P. Martirez, and A. M. Rappe, Strong Reciprocal Interaction b
 <img src="https://martirez.github.io/TOC-BTO-PTO.jpeg" width="360">
 </p>
 </li>
+
 <li>
 N. Koocher, J. M. P. Martirez, and A. M. Rappe, Theoretical Model of Oxidative Adsorption of Water on a Highly Reduced Reconstructed Oxide Surface. J. Phys. Chem. Lett. 5, 3408-3414 (2014) 
 </li>
@@ -112,7 +113,8 @@ N. Koocher, J. M. P. Martirez, and A. M. Rappe, Theoretical Model of Oxidative A
 E. H. Morales, J. M. P. Martirez, W. A. Saidi, A. M. Rappe, and D. A. Bonnell, Coexisting Surface Phases and Coherent One-Dimensional Interfaces on BaTiO3(001). ACS Nano 8, 4465-4473 (2014) 
 </li>
 
-### 2012
+
+<h>2012</h>
 
 <li>
 J. M. P. Martirez, E. H. Morales, W. A. Saidi, D. A. Bonnell, and A. M. Rappe, Atomic and Electronic Structure of the BaTiO3 (001) (√5× √5) R26.6° Surface Reconstruction. Phys. Rev. Lett. 109, 256802 (1-5) (2012)
