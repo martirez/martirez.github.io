@@ -27,6 +27,10 @@ J. M. P. Martirez, and E. A. Carter, Unraveling Oxygen Evolution on Iron-Doped Î
 Invited contribution to be featured in Special Topic on Interfacial Electrochemistry 
 and Photo(electro)catalysis  
 
+<p align="center">
+<img src="https://martirez.github.io/TOC-Cu-CuO.png" width="350">
+</p>
+
 </li>
 
 <li> A. J. Tkalych, J. M. P. Martirez, and E. A. Carter, Thermodynamic evaluation of trace-amount transition-metal ion doping in NiOOH films. J. Electrochem. Soc., 165, F907-F913 (2018) 
