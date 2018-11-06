@@ -56,6 +56,8 @@ Published in E. H. Morales, J. M. P. Martirez, W. A. Saidi, A. M. Rappe, and D. 
 ### <span style="color:#404040">Recent Publications</span>
 [Complete list](publist.md)
 
+L. Zhou, J. M. P. Martirez, C. Zhang, D. F. Swearer, S. Tian, H. Robatjazi, L. Henderson, E. A. Carter, P. Nordlander, and N. J. Halas, Light-driven methane dry reforming with single atomic site antenna-reactor plasmonic photocatalysts. under review (2018)
+
 J. M. P. Martirez, and E. A. Carter, Unraveling Oxygen Evolution on Iron-Doped β-Nickel Oxyhydroxide: the Key Role of Highly Active Molecular-like Sites. under review (2018)   
 
 Z. Chen, J. M. P. Martirez, P. Zahl, E. A. Carter, and B. E. Koel, Self-Assembling of Formic Acid on the Partially Oxidized p(2x1) Cu(110) Surface Reconstruction at Low Coverages. J. Chem. Phys., in press (2018)  
@@ -94,13 +96,4 @@ J. M. P. Martirez, and E. A. Carter, Excited-State N<sub>2</sub> Dissociation Pa
 
 D. F. Swearer, H. Zhao, L. Zhou, C. Zhang, H. Robatjazi, J. M. P. Martirez, C. M. Krauter, S. Yazdi, M. J. McClain, E. Ringe, E. A. Carter, P. Nordlander, N. J. Halas, Heterometallic Antenna-Reactor Complexes for Photocatalysis. Proc. Natl. Acad. Sci. 113, 8916-8920 (2016) 
 
-R. B. Wexler, J. M. P. Martirez, and A. M. Rappe, Stable Phosphorus Enriched (0001) Surfaces of Nickel Phosphides. Chem. Mater. 28, 5365-5372 (2016) 
 
-<p align="center">
-<img src="https://martirez.github.io/TOC-NixPy.jpeg" width="300">
-</p>
-
-J. M. P. Martirez, and E. A. Carter, Thermodynamic Constraints in Using AuM (M= Fe, Co, Ni and Mo) Alloys as N2 Dissociation Catalysts: Functionalizing a Plasmon-Active Metal. ACS Nano 10, 2940-2949 (2016)
-<p align="center">
-<img src="https://martirez.github.io/TOC-AuM-N2.png" width="300">
-</p>
