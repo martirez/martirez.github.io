@@ -60,7 +60,11 @@ L. Zhou, J. M. P. Martirez, C. Zhang, D. F. Swearer, S. Tian, H. Robatjazi, L. H
 
 J. M. P. Martirez, and E. A. Carter, Unraveling Oxygen Evolution on Iron-Doped β-Nickel Oxyhydroxide: the Key Role of Highly Active Molecular-like Sites. under review (2018)   
 
-Z. Chen, J. M. P. Martirez, P. Zahl, E. A. Carter, and B. E. Koel, Self-Assembling of Formic Acid on the Partially Oxidized p(2x1) Cu(110) Surface Reconstruction at Low Coverages. J. Chem. Phys., in press (2018)  
+Z. Chen, J. M. P. Martirez, P. Zahl, E. A. Carter, and B. E. Koel, Self-Assembling of Formic Acid on the Partially Oxidized p(2x1) Cu(110) Surface Reconstruction at Low Coverages. J. Chem. Phys., in press (2018) 
+
+<p align="center">
+<img src="https://martirez.github.io/TOC-Cu-CuO.png" width="350">
+</p>
 
 A. J. Tkalych, J. M. P. Martirez, and E. A. Carter, Thermodynamic evaluation of trace-amount transition-metal ion doping in NiOOH films.  J. Electrochem. Soc., 165, F907-F913 (2018) 
 
