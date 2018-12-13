@@ -15,11 +15,14 @@ J. M. P. Martirez, S. Kim, and A. M. Rappe, Synergistic Oxygen Evolving Activity
 
 <h3>2018</h3>
 
+<li> D. F. Swearer, H. Robatjazi, J. M. P. Martirez, M. Zhang, L. Zhou, E. A. Carter, P. Nordlander, and N. J. Halas, Controlling N2O decomposition pathways by antenna-reactor photocatalyst design. under review (2018)
+ </li> 
+ 
 <li> L. Zhou, J. M. P. Martirez, C. Zhang, D. F. Swearer, S. Tian, H. Robatjazi, L. Henderson, E. A. Carter, P. Nordlander, and N. J. Halas, Light-driven methane dry reforming with single atomic site antenna-reactor plasmonic photocatalysts. under review (2018)
 </li>
 
 <li>
-J. M. P. Martirez, and E. A. Carter, Unraveling Oxygen Evolution on Iron-Doped β-Nickel Oxyhydroxide: the Key Role of Highly Active Molecular-like Sites. under review (2018)   
+J. M. P. Martirez, and E. A. Carter, Unraveling Oxygen Evolution on Iron-Doped β-Nickel Oxyhydroxide: the Key Role of Highly Active Molecular-like Sites. J. Amer. Chem. Soc., in press (2018)   
 </li>
 
 <li> Z. Chen, J. M. P. Martirez, P. Zahl, E. A. Carter, and B. E. Koel, Self-Assembling of Formic Acid on the Partially Oxidized p(2x1) Cu(110) Surface Reconstruction at Low Coverages. J. Chem. Phys., in press (2018)  
@@ -49,7 +52,7 @@ and Photo(electro)catalysis
 <li> L. D. Chen, M. Bajdich, J. M. P. Martirez, C. M. Krauter, J. A. Gauthier, E. A. Carter, A. C. Luntz, K. Chan, and J. K. Nørskov, Understanding the apparent fractional charge of ions in the aqueous electrochemical double layer. Nat. Commun., 9:3202 (2018) 
 </li>
 
-<li> R. B. Wexler, J. M. P. Martirez, and A. M. Rappe, Chemical Pressure-Driven Enhancement of the Hydrogen Evolving Activity of Ni2P from Nonmetal Surface Doping Interpreted via Machine Learning.  J. Am. Chem. Soc.,140, 4678-4683 (2018)  
+<li> R. B. Wexler, J. M. P. Martirez, and A. M. Rappe, Chemical Pressure-Driven Enhancement of the Hydrogen Evolving Activity of Ni2P from Nonmetal Surface Doping Interpreted via Machine Learning.  J. Amer. Chem. Soc.,140, 4678-4683 (2018)  
 </li>
 
 <h3>2017</h3>
