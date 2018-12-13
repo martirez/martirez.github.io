@@ -56,9 +56,11 @@ Published in E. H. Morales, J. M. P. Martirez, W. A. Saidi, A. M. Rappe, and D. 
 ### <span style="color:#404040">Recent Publications</span>
 [Complete list](publist.md)
 
+D. F. Swearer, H. Robatjazi, J. M. P. Martirez, M. Zhang, L. Zhou, E. A. Carter, P. Nordlander, and N. J. Halas, Controlling N2O decomposition pathways by antenna-reactor photocatalyst design. under review (2018)
+
 L. Zhou, J. M. P. Martirez, C. Zhang, D. F. Swearer, S. Tian, H. Robatjazi, L. Henderson, E. A. Carter, P. Nordlander, and N. J. Halas, Light-driven methane dry reforming with single atomic site antenna-reactor plasmonic photocatalysts. under review (2018)
 
-J. M. P. Martirez, and E. A. Carter, Unraveling Oxygen Evolution on Iron-Doped β-Nickel Oxyhydroxide: the Key Role of Highly Active Molecular-like Sites. under review (2018)   
+J. M. P. Martirez, and E. A. Carter, Unraveling Oxygen Evolution on Iron-Doped β-Nickel Oxyhydroxide: the Key Role of Highly Active Molecular-like Sites. J. Am. Chem. Soc., in press (2018)   
 
 Z. Chen, J. M. P. Martirez, P. Zahl, E. A. Carter, and B. E. Koel, Self-Assembling of Formic Acid on the Partially Oxidized p(2x1) Cu(110) Surface Reconstruction at Low Coverages. J. Chem. Phys., in press (2018) 
 
@@ -86,18 +88,8 @@ J. M. P. Martirez, and E. A. Carter, Prediction of a Low-Temperature N2 Dissocia
 <img src="https://martirez.github.io/TOC-AuMo-N2.png" width="350">
 </p>
 
-R. B. Wexler, J. M. P. Martirez, and A. M. Rappe, Active Role of Phosphorus in the Hydrogen Evolving Activity of Nickel Phosphide (0001) Surfaces. ACS Catal., 7, 7718-7725 (2017) 
 
-<p align="center">
-<img src="https://martirez.github.io/TOC-NiP-H2.png" width="300">
-</p>
 
-J. M. P. Martirez, and E. A. Carter, Excited-State N<sub>2</sub> Dissociation Pathway on Fe-Functionalized Au. J.  Am. Chem. Soc., 139, 4390-4398 (2017)
 
-<p align="center">
-<img src="https://martirez.github.io/TOC-AuFe-N2.png" width="300">
-</p>
-
-D. F. Swearer, H. Zhao, L. Zhou, C. Zhang, H. Robatjazi, J. M. P. Martirez, C. M. Krauter, S. Yazdi, M. J. McClain, E. Ringe, E. A. Carter, P. Nordlander, N. J. Halas, Heterometallic Antenna-Reactor Complexes for Photocatalysis. Proc. Natl. Acad. Sci. 113, 8916-8920 (2016) 
 
 
