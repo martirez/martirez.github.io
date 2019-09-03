@@ -4,7 +4,7 @@ email: MARTIREZ (at) princeton.edu
 [Curriculum Vitae](https://martirez.github.io/MARTIREZ-JMP-CV.pdf)  &nbsp;&nbsp;&nbsp; [Google scholar profile](https://scholar.google.com/citations?user=_PiDROMAAAAJ&hl=en) &nbsp;&nbsp;&nbsp; [Complete list of publications](publist.md)
 
 I'm currently an <b>Assistant Project Scientist</b> in the Department of Chemical and Biomolecular Engineering 
-at University of California, Los Angeles, working with the UCLA's [Executive Vice Chancelor and Provost Emily A. Carter](https://research.seas.ucla.edu/carter/). 
+at University of California, Los Angeles, working with UCLA's [Executive Vice Chancelor and Provost Emily A. Carter](https://research.seas.ucla.edu/carter/). 
 <p>
 <table style="float: right">
  <tr>
