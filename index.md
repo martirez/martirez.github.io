@@ -5,27 +5,10 @@ email: MARTIREZ (at) princeton.edu
 
 I'm currently an <b>Assistant Project Scientist</b> in the Department of Chemical and Biomolecular Engineering 
 at University of California, Los Angeles, working with UCLA's [Executive Vice Chancelor and Provost Emily A. Carter](https://research.seas.ucla.edu/carter/). 
-<p>
-<table style="float: right">
- <tr>
-   <td>
-<img align="center" src="https://martirez.github.io/Carter-Martirez.jpg" width="290">
-   </td>
-</tr>
-  <tr>
-    <td>
-<p align="center">Dean Carter (left) and myself (right)</p>
-    </td>
-</tr>
-</table>
-</p>
 
 I use state-of-the-art computational tools in fields where atomic-scale information delivers unparalleled chemical design principles. 
 The main thrust of my work is using first-principles density functional theory (DFT) and embedded correlated wavefunction (emb-CW) methods to guide experimentalists in finding alternative and unconventional reaction pathways and catalysts for industrially relevant reactions. 
 This includes computational investigations on manipulation of reactions via new or surface-modified heterogeneous catalysts and introduction of co-catalysts. The foundation of my work lay on the identification of key species and pathways in catalysis from first-principles quantum mechanics.
-
-[Statement of Future Research](https://martirez.github.io/MARTIREZ-JMP-Research.pdf)  &nbsp;&nbsp;&nbsp; [Future Research (summary slide)](https://martirez.github.io/MARTIREZ-Research-summary.png)
-
 
 ### <span style="color:#404040">Research Highlights</span>
 <p align="center">
