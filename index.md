@@ -1,5 +1,4 @@
 ### JOHN MARK P. MARTIREZ, Ph. D. 
-email: MARTIREZ (at) princeton.edu
 
 [Curriculum Vitae](https://martirez.github.io/MARTIREZ-JMP-CV.pdf)  &nbsp;&nbsp;&nbsp; [Google scholar profile](https://scholar.google.com/citations?user=_PiDROMAAAAJ&hl=en) &nbsp;&nbsp;&nbsp; [Complete list of publications](publist.md)
 
