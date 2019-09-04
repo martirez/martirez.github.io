@@ -15,18 +15,21 @@ J. M. P. Martirez, S. Kim, and A. M. Rappe, Synergistic Oxygen Evolving Activity
 
 <h3>2018</h3>
 
-<li> D. F. Swearer, H. Robatjazi, J. M. P. Martirez, M. Zhang, L. Zhou, E. A. Carter, P. Nordlander, and N. J. Halas, Controlling N2O decomposition pathways by antenna-reactor photocatalyst design. under review (2018)
- </li> 
- 
-<li> L. Zhou, J. M. P. Martirez, C. Zhang, D. F. Swearer, S. Tian, H. Robatjazi, L. Henderson, E. A. Carter, P. Nordlander, and N. J. Halas, Light-driven methane dry reforming with single atomic site antenna-reactor plasmonic photocatalysts. under review (2018)
+<li> L. Zhou, J. M. P. Martirez, C. Zhang, D. F. Swearer, S. Tian, H. Robatjazi, L. Henderson, E. A. Carter, P. Nordlander, and N. J. Halas, Light-driven methane dry reforming with single atomic site antenna-reactor plasmonic photocatalysts. under review (2018) </li>
+
+<li> D. F. Swearer, H. Robatjazi, J. M. P. Martirez, M. Zhang, L. Zhou, E. A. Carter, P. 
+Nordlander, and N. J. Halas, Plasmonic Photocatalysis of Nitrous Oxide into N2 and O2 using Aluminum-Iridium Antenna-Reactor Nanoparticles. ACS Nano, 13, 8076-8086 (2019) </li>
+
+<li> J. M. P. Martirez, and E. A. Carter, Unraveling Oxygen Evolution on Iron-Doped β-Nickel Oxyhydroxide: the Key Role of Highly Active Molecular-like Sites. Journal of the American Chemical Society, 141, 693-705 (2019)
+
+<p align="center">
+<img src="https://martirez.github.io/TOC-OER-JACS2019.png" width="350">
+</p>
+
 </li>
 
-<li>
-J. M. P. Martirez, and E. A. Carter, Unraveling Oxygen Evolution on Iron-Doped β-Nickel Oxyhydroxide: the Key Role of Highly Active Molecular-like Sites. J. Am. Chem. Soc., in press (2018)   
-</li>
+<li> Z. Chen, J. M. P. Martirez, P. Zahl, E. A. Carter, and B. E. Koel, Self-Assembling of Formic Acid on the Partially Oxidized p(2x1) Cu(110) Surface Reconstruction at Low Coverages. The Journal of Chemical Physics, 150, 041720 (2019) </li>  
 
-<li> Z. Chen, J. M. P. Martirez, P. Zahl, E. A. Carter, and B. E. Koel, Self-Assembling of Formic Acid on the Partially Oxidized p(2x1) Cu(110) Surface Reconstruction at Low Coverages. J. Chem. Phys., in press (2018)  
-  
 Invited contribution to be featured in Special Topic on Interfacial Electrochemistry 
 and Photo(electro)catalysis  
 
