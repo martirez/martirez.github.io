@@ -56,13 +56,18 @@ Published in E. H. Morales, J. M. P. Martirez, W. A. Saidi, A. M. Rappe, and D. 
 ### <span style="color:#404040">Recent Publications</span>
 [Complete list](publist.md)
 
-D. F. Swearer, H. Robatjazi, J. M. P. Martirez, M. Zhang, L. Zhou, E. A. Carter, P. Nordlander, and N. J. Halas, Controlling N2O decomposition pathways by antenna-reactor photocatalyst design. under review (2018)
-
 L. Zhou, J. M. P. Martirez, C. Zhang, D. F. Swearer, S. Tian, H. Robatjazi, L. Henderson, E. A. Carter, P. Nordlander, and N. J. Halas, Light-driven methane dry reforming with single atomic site antenna-reactor plasmonic photocatalysts. under review (2018)
 
-J. M. P. Martirez, and E. A. Carter, Unraveling Oxygen Evolution on Iron-Doped β-Nickel Oxyhydroxide: the Key Role of Highly Active Molecular-like Sites. J. Am. Chem. Soc., in press (2018)   
+D. F. Swearer, H. Robatjazi, J. M. P. Martirez, M. Zhang, L. Zhou, E. A. Carter, P. 
+Nordlander, and N. J. Halas, Plasmonic Photocatalysis of Nitrous Oxide into N2 and O2 using Aluminum-Iridium Antenna-Reactor Nanoparticles. ACS Nano, 13, 8076-8086 (2019)
 
-Z. Chen, J. M. P. Martirez, P. Zahl, E. A. Carter, and B. E. Koel, Self-Assembling of Formic Acid on the Partially Oxidized p(2x1) Cu(110) Surface Reconstruction at Low Coverages. J. Chem. Phys., in press (2018) 
+J. M. P. Martirez, and E. A. Carter, Unraveling Oxygen Evolution on Iron-Doped β-Nickel Oxyhydroxide: the Key Role of Highly Active Molecular-like Sites. Journal of the American Chemical Society, 141, 693-705 (2019)   
+
+<p align="center">
+<img src="https://martirez.github.io/TOC-OER-JACS2019.png" width="350">
+</p>
+
+Z. Chen, J. M. P. Martirez, P. Zahl, E. A. Carter, and B. E. Koel, Self-Assembling of Formic Acid on the Partially Oxidized p(2x1) Cu(110) Surface Reconstruction at Low Coverages. The Journal of Chemical Physics, 150, 041720 (2019)  
 
 <p align="center">
 <img src="https://martirez.github.io/TOC-Cu-CuO.png" width="350">
