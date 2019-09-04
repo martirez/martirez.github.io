@@ -13,7 +13,7 @@ J. M. P. Martirez, S. Kim, and A. M. Rappe, Synergistic Oxygen Evolving Activity
 
 <ol reversed>
 
-<h3>2018</h3>
+<h3>2019</h3>
 
 <li> L. Zhou, J. M. P. Martirez, C. Zhang, D. F. Swearer, S. Tian, H. Robatjazi, L. Henderson, E. A. Carter, P. Nordlander, and N. J. Halas, Light-driven methane dry reforming with single atomic site antenna-reactor plasmonic photocatalysts. under review (2018) </li>
 
@@ -38,6 +38,8 @@ and Photo(electro)catalysis
 </p>
 
 </li>
+
+<h3>2018</h3>
 
 <li> A. J. Tkalych, J. M. P. Martirez, and E. A. Carter, Thermodynamic evaluation of trace-amount transition-metal ion doping in NiOOH films. J. Electrochem. Soc., 165, F907-F913 (2018) 
 </li>
