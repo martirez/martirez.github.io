@@ -15,7 +15,7 @@ J. M. P. Martirez, S. Kim, and A. M. Rappe, Synergistic Oxygen Evolving Activity
 
 <h3>2019</h3>
 
-<li> L. Zhou, J. M. P. Martirez, C. Zhang, D. F. Swearer, S. Tian, H. Robatjazi, L. Henderson, E. A. Carter, P. Nordlander, and N. J. Halas, Light-driven methane dry reforming with single atomic site antenna-reactor plasmonic photocatalysts. under review (2018) </li>
+<li> L. Zhou, J. M. P. Martirez, C. Zhang, D. F. Swearer, S. Tian, H. Robatjazi, L. Henderson, E. A. Carter, P. Nordlander, and N. J. Halas, Light-driven methane dry reforming with single atomic site antenna-reactor plasmonic photocatalysts. under review (2019) </li>
 
 <li> D. F. Swearer, H. Robatjazi, J. M. P. Martirez, M. Zhang, L. Zhou, E. A. Carter, P. 
 Nordlander, and N. J. Halas, Plasmonic Photocatalysis of Nitrous Oxide into N2 and O2 using Aluminum-Iridium Antenna-Reactor Nanoparticles. ACS Nano, 13, 8076-8086 (2019) </li>
