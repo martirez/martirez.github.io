@@ -10,7 +10,7 @@ at University of California, Los Angeles, working with UCLA's [Executive Vice Ch
 ### <span style="color:#404040">Research Highlights</span>
 
 <p align="center">
-<img src="https://martirez.github.io/TOC-NatEnergy2020.png" width="350">
+<img src="https://martirez.github.io/TOC-NatEnergy2020.png" width="500">
 </p>
 A recent Princeton/UCLA, Rice, and UCSB collaboration entitled "Light-driven methane dry reforming with single atomic site antenna-reactor plasmonic photocatalysts," which appeared in Nature Energy, was featured in
 [Daily Bruin “UCLA researchers help develop improved process for synthesis gas production” by Zhichun Li, January 22, 2020](https://dailybruin.com/2020/01/22/ucla-researchers-help-develop-improved-process-for-synthesis-gas-production/) 
