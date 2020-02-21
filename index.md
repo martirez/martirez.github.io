@@ -29,13 +29,12 @@ Our paper J. M. P. Martirez, and E. A. Carter, Prediction of a Low-Temperature N
 ### <span style="color:#404040">Recent Publications</span>
 [Complete list](publist.md)
 
-J. M. P. Martirez, and E. A. Carter, Noninnocent influence of host β-NiOOH redox activity on transition metal dopants’ efficacy as active sites in electrocatalytic water oxidation. ACS Catalysis, 10, 2720-2734 (2020) DOI: 10.1021/acscatal.9b05092
-
+J. M. P. Martirez, and E. A. Carter, Noninnocent influence of host β-NiOOH redox activity on transition metal dopants’ efficacy as active sites in electrocatalytic water oxidation. ACS Catalysis, 10, 2720-2734 (2020) 
 <p align="center">
 <img src="https://martirez.github.io/TOC-ACSCatal2020.png" width="350">
 </p>
 
-A. G. Rajan, J. M. P. Martirez, and E. A. Carter, Facet-Independent Oxygen Evolution Activity of Pure β-NiOOH: Different Chemistries Leading to Similar Overpotentials. Journal of the American Chemical Society, 142, 3600-3612 (2020) DOI: 10.1021/jacs.9b13708
+A. G. Rajan, J. M. P. Martirez, and E. A. Carter, Facet-Independent Oxygen Evolution Activity of Pure β-NiOOH: Different Chemistries Leading to Similar Overpotentials. Journal of the American Chemical Society, 142, 3600-3612 (2020) 
 
 L. Zhou, J. M. P. Martirez, J. Finzel, C. Zhang, D. F. Swearer, S. Tian, H. Robatjazi, M. Lou, L. Dong, L. Henderson, P. Christopher, E. A. Carter, P. Nordlander, N. J. Halas, Light-driven methane dry reforming with single atomic site antenna-reactor plasmonic photocatalysts. Nature Energy, 5, 61-70 (2020) 
 
