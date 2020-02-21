@@ -28,7 +28,7 @@ and
 <p align="center">
 <img src="https://martirez.github.io/Carter-Martirez-figure-v2.png" width="500">
 </p>
-Our paper J. M. P. Martirez, and E. A. Carter, Prediction of a Low-Temperature N2 Dissociation Catalyst Exploiting Near IR-to-Visible Light Nanoplasmonics. Sci. Adv., 3, eaao4710 (2017) was recetly featured in [Chemical and Engineering News](https://cen.acs.org/articles/96/web/2018/01/Lowering-temperature-nitrogen-splitting.html), [Princeton Engineering News](https://engineering.princeton.edu/news/2018/01/12/new-process-could-slash-energy-demands-fertilizer-nitrogen-based-chemicals), and [Princeton University News](https://www.princeton.edu/news/2018/01/17/new-process-could-slash-energy-demands-fertilizer-nitrogen-based-chemicals)
+Our paper J. M. P. Martirez, and E. A. Carter, Prediction of a Low-Temperature N2 Dissociation Catalyst Exploiting Near IR-to-Visible Light Nanoplasmonics. Sci. Adv., 3, eaao4710 (2017) was featured in [Chemical and Engineering News](https://cen.acs.org/articles/96/web/2018/01/Lowering-temperature-nitrogen-splitting.html), [Princeton Engineering News](https://engineering.princeton.edu/news/2018/01/12/new-process-could-slash-energy-demands-fertilizer-nitrogen-based-chemicals), and [Princeton University News](https://www.princeton.edu/news/2018/01/17/new-process-could-slash-energy-demands-fertilizer-nitrogen-based-chemicals)
 
 
 ### <span style="color:#404040">Recent Publications</span>
