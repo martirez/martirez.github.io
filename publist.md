@@ -13,9 +13,21 @@ J. M. P. Martirez, S. Kim, and A. M. Rappe, Synergistic Oxygen Evolving Activity
 
 <ol reversed>
 
-<h3>2019</h3>
+<h3>2020</h3>
 
-<li> L. Zhou, J. M. P. Martirez, C. Zhang, D. F. Swearer, S. Tian, H. Robatjazi, L. Henderson, E. A. Carter, P. Nordlander, and N. J. Halas, Light-driven methane dry reforming with single atomic site antenna-reactor plasmonic photocatalysts. under review (2019) </li>
+<li>J. M. P. Martirez, and E. A. Carter, Noninnocent influence of host β-NiOOH redox activity on transition metal dopants’ efficacy as active sites in electrocatalytic water oxidation. ACS Catalysis, 10, 2720-2734 (2020) 
+
+<p align="center">
+<img src="https://martirez.github.io/TOC-ACSCatal2020.png" width="350">
+</p>
+
+</li>
+
+<li>A. G. Rajan, J. M. P. Martirez, and E. A. Carter, Facet-Independent Oxygen Evolution Activity of Pure β-NiOOH: Different Chemistries Leading to Similar Overpotentials. Journal of the American Chemical Society, 142, 3600-3612 (2020) </li>
+
+<li>L. Zhou, J. M. P. Martirez, J. Finzel, C. Zhang, D. F. Swearer, S. Tian, H. Robatjazi, M. Lou, L. Dong, L. Henderson, P. Christopher, E. A. Carter, P. Nordlander, N. J. Halas, Light-driven methane dry reforming with single atomic site antenna-reactor plasmonic photocatalysts. Nature Energy, 5, 61-70 (2020) </li>
+
+<h3>2019</h3>
 
 <li> D. F. Swearer, H. Robatjazi, J. M. P. Martirez, M. Zhang, L. Zhou, E. A. Carter, P. 
 Nordlander, and N. J. Halas, Plasmonic Photocatalysis of Nitrous Oxide into N2 and O2 using Aluminum-Iridium Antenna-Reactor Nanoparticles. ACS Nano, 13, 8076-8086 (2019) </li>
