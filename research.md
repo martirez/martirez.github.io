@@ -1,7 +1,5 @@
 ### Current Research
 
-#### <span style="color:#0033cc">(Photo)electrochemical Water Splitting</span>
-
 #### Oxygen Evolution Reaction (OER)
 
 
