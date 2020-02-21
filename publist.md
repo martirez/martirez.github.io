@@ -46,15 +46,11 @@ Nordlander, and N. J. Halas, Plasmonic Photocatalysis of Nitrous Oxide into N2 a
 
 </li>
 
-<li> Z. Chen, J. M. P. Martirez, P. Zahl, E. A. Carter, and B. E. Koel, Self-Assembling of Formic Acid on the Partially Oxidized p(2x1) Cu(110) Surface Reconstruction at Low Coverages. The Journal of Chemical Physics, 150, 041720 (2019) 
-
-Invited contribution to be featured in Special Topic on Interfacial Electrochemistry 
-and Photo(electro)catalysis  
+<li> Z. Chen, J. M. P. Martirez, P. Zahl, E. A. Carter, and B. E. Koel, Self-Assembling of Formic Acid on the Partially Oxidized p(2x1) Cu(110) Surface Reconstruction at Low Coverages. The Journal of Chemical Physics, 150, 041720 (2019)  
 
 <p align="center">
 <img src="https://martirez.github.io/TOC-Cu-CuO.png" width="350">
 </p>
-
 </li>
 
 <h3>2018</h3>
