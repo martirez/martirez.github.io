@@ -14,9 +14,14 @@ at University of California, Los Angeles, working with UCLA's [Executive Vice Ch
 </p>
 A recent Princeton/UCLA, Rice, and UCSB collaboration entitled "Light-driven methane dry reforming with single atomic site antenna-reactor plasmonic photocatalysts," which appeared in Nature Energy, was featured in
 [Daily Bruin “UCLA researchers help develop improved process for synthesis gas production” by Zhichun Li, January 22, 2020](https://dailybruin.com/2020/01/22/ucla-researchers-help-develop-improved-process-for-synthesis-gas-production/) 
+
 [Chemical & Engineering News: “Light-activated catalyst makes syngas greener” by Leigh Krietsch Boerner, January 17, 2020](https://cen.acs.org/synthesis/catalysis/Light-activated-catalyst-makes-syngas/98/i3)
+
 [Rice News: “Rice’s low-temp photocatalyst could slash the carbon footprint for syngas” by Jade Boyd, January 10, 2020](http://news.rice.edu/2020/01/10/gasification-goes-green-2/)
+
 [Nature - Research Highlights: “More light than heat helps turn greenhouse gases into valuable product” January 9, 2020](https://www.nature.com/articles/d41586-020-00027-2)
+
+and
 [UCLA newsroom: “A greener, simpler way to create syngas” by Mathew Chin, January 6, 2020](https://samueli.ucla.edu/a-greener-simpler-way-to-create-syngas/)
 
 
