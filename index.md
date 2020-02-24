@@ -34,6 +34,11 @@ Our paper J. M. P. Martirez, and E. A. Carter, Prediction of a Low-Temperature N
 ### <span style="color:#404040">Recent Publications</span>
 [Complete list](publist.md)
 
+J. M. P. Martirez, and E. A. Carter, Secondary transition-metal dopants for enhanced electrochemical O2 formation and desorption on Fe-doped β-NiOOH. ACS Energy Letters, in press (2020) 
+<p align="center">
+<img src="https://martirez.github.io/TOC-ACSEnergyLett2020.png" width="350">
+</p>
+
 J. M. P. Martirez, and E. A. Carter, Noninnocent influence of host β-NiOOH redox activity on transition metal dopants’ efficacy as active sites in electrocatalytic water oxidation. ACS Catalysis, 10, 2720-2734 (2020) 
 <p align="center">
 <img src="https://martirez.github.io/TOC-ACSCatal2020.png" width="350">
