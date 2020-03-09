@@ -32,7 +32,7 @@ Our paper J. M. P. Martirez, and E. A. Carter, Prediction of a Low-Temperature N
 
 
 ### <span style="color:#404040">Recent Publications</span>
-[Complete list](publist.md)
+[Complete list and links](publist.md)
 
 J. M. P. Martirez, and E. A. Carter, Secondary transition-metal dopants for enhanced electrochemical O2 formation and desorption on Fe-doped β-NiOOH. ACS Energy Letters, 5, 962-967 (2020) 
 <p align="center">
