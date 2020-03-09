@@ -17,7 +17,7 @@ J. M. P. Martirez, S. Kim, and A. M. Rappe, Synergistic Oxygen Evolving Activity
 
 <h3>2020</h3>
 
-<li>J. M. P. Martirez, and E. A. Carter, Secondary transition-metal dopants for enhanced electrochemical O2 formation and desorption on Fe-doped β-NiOOH.<a href="https://doi.org/10.1021/acsenergylett.9b02761">ACS Energy Letters, 5, 962-967 (2020)</a> 
+<li>J. M. P. Martirez, and E. A. Carter, Secondary transition-metal dopants for enhanced electrochemical O2 formation and desorption on Fe-doped β-NiOOH. <a href="https://doi.org/10.1021/acsenergylett.9b02761">ACS Energy Letters, 5, 962-967 (2020)</a> 
 <p align="center">
 <img src="https://martirez.github.io/TOC-ACSEnergyLetter2020.png" width="300">
 </p>
