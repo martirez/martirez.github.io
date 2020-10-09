@@ -37,6 +37,14 @@ Our paper J. M. P. Martirez, and E. A. Carter, Prediction of a Low-Temperature N
 ### <span style="color:#404040">Recent Publications</span>
 [Complete list and links](publist.md)
 
+L. Li, J. M. P. Martirez, and E. A. Carter, Prediction of Highly Selective Electrocatalytic Nitrogen Reduction at Low Overpotential on a Mo-doped g-GaN Monolayer. ACS Catalysis, in press (2020)
+
+Q. Zhao, X. Zhang, J. M. P. Martirez, and E. A. Carter, Benchmarking an embedded adaptive sampling configuration interaction method for surface reactions: H2 desorption from and CH4 dissociation on Cu(111). Journal of Chemical Theory and Computation, in press (2020) 
+
+J. M. P. Martirez, J. L. Bao, and E. A. Carter, First-Principles Insights into Plasmon-Induced Catalysis. Annual Review of Physical Chemistry, 72, in press (2021) 
+
+A. G. Rajan, J. M. P. Martirez, and E. A. Carter, Why do we use the materials and operating conditions we use for heterogeneous (photo)electrochemical water splitting? ACS Catalysis, 10, 11177-111234 (2020) 
+
 J. M. P. Martirez, and E. A. Carter, Secondary transition-metal dopants for enhanced electrochemical O2 formation and desorption on Fe-doped β-NiOOH. ACS Energy Letters, 5, 962-967 (2020) 
 <p align="center">
 <img src="https://martirez.github.io/TOC-ACSEnergyLetter2020.png" width="300">
