@@ -28,7 +28,7 @@ J. M. P. Martirez, S. Kim, and A. M. Rappe, Synergistic Oxygen Evolving Activity
 <li>Q. Zhao, X. Zhang, J. M. P. Martirez, and E. A. Carter, Benchmarking an embedded adaptive sampling configuration interaction method for surface reactions: H2 desorption from and CH4 dissociation on Cu(111). Journal of Chemical Theory and Computation, in press (2020) 
  </li>
  
-<li>A. G. Rajan, J. M. P. Martirez, and E. A. Carter, Why do we use the materials and operating conditions we use for heterogeneous (photo)electrochemical water splitting? ACS Catalysis, 10, 11177-111234 (2020) DOI: 10.1021/acscatal.0c01862
+<li>A. G. Rajan, J. M. P. Martirez, and E. A. Carter, Why do we use the materials and operating conditions we use for heterogeneous (photo)electrochemical water splitting? <a href="https://doi.org/10.1021/acscatal.0c01862">ACS Catalysis, 10, 11177-111234 (2020)</a>
 </li>
  
 <li>J. M. P. Martirez, and E. A. Carter, Secondary transition-metal dopants for enhanced electrochemical O2 formation and desorption on Fe-doped β-NiOOH. <a href="https://doi.org/10.1021/acsenergylett.9b02761">ACS Energy Letters, 5, 962-967 (2020)</a> 
