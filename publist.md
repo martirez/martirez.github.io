@@ -1,5 +1,9 @@
 ## Patents
 <ol reversed>
+
+<li>L. Li, J. M. P. Martirez, and E. A. Carter, Mo-doped graphene-like GaN monolayer as electrocatalyst for artificial ammonia synthesis via nitrogen reduction reaction. Provisional US patent application no. 63/033,325 (filed on June 2, 2020)
+</li>
+
 <li>J. M. P. Martirez and E. A. Carter, Fe-Cu and Fe-Ag as primary-secondary co-dopants into NiOOH for enhanced electrochemical molecular oxygen evolution catalysis. Provisional US patent application no. 62/948,392 (filed on December 16, 2019)
 </li>
 
