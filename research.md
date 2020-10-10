@@ -22,7 +22,7 @@ Selected relevant primary-authored publications:
 #### Chemical Insights into Oxygen Evolution Catalysis
 
 <p align="center">
-<img src="https://martirez.github.io/NiFeOOH-OER-Dpath.png" width="400">
+<img src="https://martirez.github.io/NiFeOOH-OER-Dpath.png" width="800">
 </p>
 
 Summary. We identify the key species and pathways in the oxygen evolution catalysis on doped nickel-based oxyhydroxides. We were able to codify doping strategies to improve the aqueous electrocatalytic oxygen evolving activity on this material, which we based on two central mechanistic features of its efficient water oxidation. We thus were able to demonstrate a mechanism-oriented design principle in the development of oxygen evolution catalysts.
