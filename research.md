@@ -11,14 +11,17 @@ Metallic nanoparticles (MNPs) with free-electron-like valence electrons, e.g., g
 
 Selected relevant primary-authored publications:
 (1) 	L. Zhou, J. M. P. Martirez, J. Finzel, C. Zhang, D. F. Swearer, S. Tian, H. Robatjazi, M. Lou, L. Dong, L. Henderson, P. Christopher, E. A. Carter, P. Nordlander, N. J. Halas, Light-driven methane dry reforming with single atomic site antenna-reactor plasmonic photocatalysts. Nat. Energy, 5, 61-70 (2020) 
+
 (2) 	J. M. P. Martirez, and E. A. Carter, Prediction of a Low-Temperature N2 Dissociation Catalyst Exploiting Near IR-to-Visible Light Nanoplasmonics. Sci. Adv., 3, eaao4710 (2017) 
+
 (3)	 J. M. P. Martirez, and E. A. Carter, Excited-State N2 Dissociation Pathway on Fe-Functionalized Au. J. Am. Chem. Soc., 139, 4390-4398 (2017) 
+
 (4)	J. M. P. Martirez, and E. A. Carter, Thermodynamic Constraints in Using AuM (M= Fe, Co, Ni and Mo) Alloys as N2 Dissociation Catalysts: Functionalizing a Plasmon-Active Metal. ACS Nano, 10, 2940-2949 (2016)
 
 #### Chemical Insights into Oxygen Evolution Catalysis
 
 <p align="center">
-<img src="https://martirez.github.io/NiFeOOH-OER-Dpath.png" width="800">
+<img src="https://martirez.github.io/NiFeOOH-OER-Dpath.png" width="400">
 </p>
 
 Summary. We identify the key species and pathways in the oxygen evolution catalysis on doped nickel-based oxyhydroxides. We were able to codify doping strategies to improve the aqueous electrocatalytic oxygen evolving activity on this material, which we based on two central mechanistic features of its efficient water oxidation. We thus were able to demonstrate a mechanism-oriented design principle in the development of oxygen evolution catalysts.
@@ -26,8 +29,11 @@ The electrochemical conversion of water into hydrogen and oxygen appears to be a
 
 Selected relevant primary-authored publications:
 (1)	J. M. P. Martirez, and E. A. Carter, Secondary transition-metal dopants for enhanced electrochemical O2 formation and desorption on Fe-doped β-NiOOH. ACS Energy Lett., 5, 962-967 (2020) 
+
 (2)	J. M. P. Martirez, and E. A. Carter, Noninnocent influence of host β-NiOOH redox activity on transition metal dopants’ efficacy as active sites in electrocatalytic water oxidation. ACS Catal., 10, 2720-2734 (2020)
+
 (3)	J. M. P. Martirez, and E. A. Carter, Unraveling Oxygen Evolution on Iron-Doped β-Nickel Oxyhydroxide: The Key Role of Highly Active Molecular-like Sites. J. Am. Chem. Soc., 141, 693-705 (2019) 
+
 (4)	J. M. P. Martirez, and E. A. Carter, Effects of the Aqueous Environment on the Stability and Chemistry of β-NiOOH Surfaces. Chem. Mater., 30, 5205-5219 (2018) 
 
 
