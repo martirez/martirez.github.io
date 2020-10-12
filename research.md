@@ -12,13 +12,13 @@ Metallic nanoparticles (MNPs) with free-electron-like valence electrons, e.g., g
 
 Selected relevant primary-authored publications:
 
-(1) 	L. Zhou, J. M. P. Martirez, J. Finzel, C. Zhang, D. F. Swearer, S. Tian, H. Robatjazi, M. Lou, L. Dong, L. Henderson, P. Christopher, E. A. Carter, P. Nordlander, N. J. Halas, Light-driven methane dry reforming with single atomic site antenna-reactor plasmonic photocatalysts. Nat. Energy, 5, 61-70 (2020) 
+(1) 	L. Zhou, J. M. P. Martirez, J. Finzel, C. Zhang, D. F. Swearer, S. Tian, H. Robatjazi, M. Lou, L. Dong, L. Henderson, P. Christopher, E. A. Carter, P. Nordlander, N. J. Halas, Light-driven methane dry reforming with single atomic site antenna-reactor plasmonic photocatalysts. <a href="https://doi.org/10.1038/s41560-019-0517-9">Nature Energy, 5, 61-70 (2020)</a> 
 
-(2) 	J. M. P. Martirez, and E. A. Carter, Prediction of a Low-Temperature N2 Dissociation Catalyst Exploiting Near IR-to-Visible Light Nanoplasmonics. Sci. Adv., 3, eaao4710 (2017) 
+(2) 	J. M. P. Martirez, and E. A. Carter, Prediction of a Low-Temperature N2 Dissociation Catalyst Exploiting Near IR-to-Visible Light Nanoplasmonics. <a href="https://doi.org/10.1126/sciadv.aao4710">Sci. Adv., 3, eaao4710  (2017)</a> 
 
-(3)	 J. M. P. Martirez, and E. A. Carter, Excited-State N2 Dissociation Pathway on Fe-Functionalized Au. J. Am. Chem. Soc., 139, 4390-4398 (2017) 
+(3)	 J. M. P. Martirez, and E. A. Carter, Excited-State N2 Dissociation Pathway on Fe-Functionalized Au. <a href="https://doi.org/10.1021/jacs.6b12301">J.  Am. Chem. Soc., 139, 4390-4398 (2017)</a> 
 
-(4)	J. M. P. Martirez, and E. A. Carter, Thermodynamic Constraints in Using AuM (M= Fe, Co, Ni and Mo) Alloys as N2 Dissociation Catalysts: Functionalizing a Plasmon-Active Metal. ACS Nano, 10, 2940-2949 (2016)
+(4)	J. M. P. Martirez, and E. A. Carter, Thermodynamic Constraints in Using AuM (M= Fe, Co, Ni and Mo) Alloys as N2 Dissociation Catalysts: Functionalizing a Plasmon-Active Metal. <a href="https://doi.org/10.1021/acsnano.6b00085">ACS Nano 10, 2940-2949 (2016)</a>
 
 #### Chemical Insights into Oxygen Evolution Catalysis
 
@@ -32,13 +32,13 @@ The electrochemical conversion of water into hydrogen and oxygen appears to be a
 
 Selected relevant primary-authored publications:
 
-(1)	J. M. P. Martirez, and E. A. Carter, Secondary transition-metal dopants for enhanced electrochemical O2 formation and desorption on Fe-doped β-NiOOH. ACS Energy Lett., 5, 962-967 (2020) 
+(1)	J. M. P. Martirez, and E. A. Carter, Secondary transition-metal dopants for enhanced electrochemical O2 formation and desorption on Fe-doped β-NiOOH. <a href="https://doi.org/10.1021/acsenergylett.9b02761">ACS Energy Letters, 5, 962-967 (2020)</a> 
 
-(2)	J. M. P. Martirez, and E. A. Carter, Noninnocent influence of host β-NiOOH redox activity on transition metal dopants’ efficacy as active sites in electrocatalytic water oxidation. ACS Catal., 10, 2720-2734 (2020)
+(2)	J. M. P. Martirez, and E. A. Carter, Noninnocent influence of host β-NiOOH redox activity on transition metal dopants’ efficacy as active sites in electrocatalytic water oxidation. <a href="https://doi.org/10.1021/acscatal.9b05092">ACS Catalysis, 10, 2720-2734 (2020)</a>
 
-(3)	J. M. P. Martirez, and E. A. Carter, Unraveling Oxygen Evolution on Iron-Doped β-Nickel Oxyhydroxide: The Key Role of Highly Active Molecular-like Sites. J. Am. Chem. Soc., 141, 693-705 (2019) 
+(3)	J. M. P. Martirez, and E. A. Carter, Unraveling Oxygen Evolution on Iron-Doped β-Nickel Oxyhydroxide: The Key Role of Highly Active Molecular-like Sites. <a href="https://doi.org/10.1021/jacs.8b12386">Journal of the American Chemical Society, 141, 693-705 (2019)</a> 
 
-(4)	J. M. P. Martirez, and E. A. Carter, Effects of the Aqueous Environment on the Stability and Chemistry of β-NiOOH Surfaces. Chem. Mater., 30, 5205-5219 (2018) 
+(4)	J. M. P. Martirez, and E. A. Carter, Effects of the Aqueous Environment on the Stability and Chemistry of β-NiOOH Surfaces. <a href="https://doi.org/10.1021/acs.chemmater.8b01866">Chem. Mater., 30, 5205-5219 (2018)</a> 
 
 
 
