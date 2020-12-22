@@ -26,6 +26,9 @@ J. M. P. Martirez, S. Kim, and A. M. Rappe, Synergistic Oxygen Evolving Activity
 
 <h3>2020</h3>
 
+<li> R. Sheil, J. M. P. Martirez, X. Sang, E. A. Carter, and J. P. Chang, Precise control of nanoscale Cu etching via gas-phase oxidation and chemical complexation. Journal of Physical Chemistry C, in press (2020)
+</li>
+
 <li>L. Li, J. M. P. Martirez, and E. A. Carter, Prediction of Highly Selective Electrocatalytic Nitrogen Reduction at Low Overpotential on a Mo-doped g-GaN Monolayer. <a href="https://doi.org/10.1021/acscatal.0c03140">ACS Catalysis, 10, 12841-12857 (2020)</a>
  </li>
  
