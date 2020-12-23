@@ -21,7 +21,11 @@ J. M. P. Martirez, S. Kim, and A. M. Rappe, Synergistic Oxygen Evolving Activity
 
 <h3>2021</h3>
 
-<li>J. M. P. Martirez, J. L. Bao, and E. A. Carter, First-Principles Insights into Plasmon-Induced Catalysis. <a href="https://doi.org/10.1146/annurev-physchem-061020-053501">Annual Review of Physical Chemistry, 72, XX-XX (2021)</a>  
+<li>J. M. P. Martirez, J. L. Bao, and E. A. Carter, First-Principles Insights into Plasmon-Induced Catalysis. <a href="https://doi.org/10.1146/annurev-physchem-061020-053501">Annual Review of Physical Chemistry, 72, XX-XX (2021)</a> 
+ 
+ <p align="center">
+<img src="https://martirez.github.io/Plasmonics-fig.png" width="650">
+</p>
  </li>
 
 <h3>2020</h3>
