@@ -38,6 +38,9 @@ Our paper J. M. P. Martirez, and E. A. Carter, Prediction of a Low-Temperature N
 [Complete list and links](publist.md)
 
 J. M. P. Martirez, J. L. Bao, and E. A. Carter, First-Principles Insights into Plasmon-Induced Catalysis. Annual Review of Physical Chemistry, 72, in press (2021) 
+<p align="center">
+<img src="https://martirez.github.io/Plasmonics-fig.png" width="450">
+</p>
 
 R. Sheil, J. M. P. Martirez, X. Sang, E. A. Carter, and J. P. Chang, Precise control of nanoscale Cu etching via gas-phase oxidation and chemical complexation. Journal of Physical Chemistry C, in press (2020)
 
