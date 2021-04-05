@@ -37,12 +37,14 @@ Our paper J. M. P. Martirez, and E. A. Carter, Prediction of a Low-Temperature N
 ### <span style="color:#404040">Recent Publications</span>
 [Complete list and links](publist.md)
 
-J. M. P. Martirez, J. L. Bao, and E. A. Carter, First-Principles Insights into Plasmon-Induced Catalysis. Annual Review of Physical Chemistry, 72, in press (2021) 
+Q. Zhao, J. M. P. Martirez, and E. A. Carter, Revisiting understanding of electrochemical CO2 reduction on Cu(111): competing proton-coupled electron transfer reaction mechanisms revealed by embedded correlated wavefunction theory. Journal of the American Chemical Society, in press (2021)
+
+Review Article: J. M. P. Martirez, J. L. Bao, and E. A. Carter, First-Principles Insights into Plasmon-Induced Catalysis. Annual Review of Physical Chemistry, 72, advance online publication (2021) 
 <p align="center">
 <img src="https://martirez.github.io/Plasmonics-fig.png" width="650">
 </p>
 
-R. Sheil, J. M. P. Martirez, X. Sang, E. A. Carter, and J. P. Chang, Precise control of nanoscale Cu etching via gas-phase oxidation and chemical complexation. Journal of Physical Chemistry C, in press (2020)
+R. Sheil, J. M. P. Martirez, X. Sang, E. A. Carter, and J. P. Chang, Precise control of nanoscale Cu etching via gas-phase oxidation and chemical complexation. Journal of Physical Chemistry C, 125, 1819-1832 (2021) 
 
 L. Li, J. M. P. Martirez, and E. A. Carter, Prediction of Highly Selective Electrocatalytic Nitrogen Reduction at Low Overpotential on a Mo-doped g-GaN Monolayer. ACS Catalysis, 10, 12841-12857 (2020)
 
