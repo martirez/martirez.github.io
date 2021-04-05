@@ -39,7 +39,7 @@ Our paper J. M. P. Martirez, and E. A. Carter, Prediction of a Low-Temperature N
 
 Q. Zhao, J. M. P. Martirez, and E. A. Carter, Revisiting understanding of electrochemical CO2 reduction on Cu(111): competing proton-coupled electron transfer reaction mechanisms revealed by embedded correlated wavefunction theory. Journal of the American Chemical Society, in press (2021)
 
-Review Article: J. M. P. Martirez, J. L. Bao, and E. A. Carter, First-Principles Insights into Plasmon-Induced Catalysis. Annual Review of Physical Chemistry, 72, advance online publication (2021) 
+J. M. P. Martirez, J. L. Bao, and E. A. Carter, First-Principles Insights into Plasmon-Induced Catalysis. Annual Review of Physical Chemistry, 72, advance online publication (2021) 
 <p align="center">
 <img src="https://martirez.github.io/Plasmonics-fig.png" width="650">
 </p>
