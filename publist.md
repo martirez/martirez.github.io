@@ -21,6 +21,18 @@ J. M. P. Martirez, S. Kim, and A. M. Rappe, Synergistic Oxygen Evolving Activity
 
 <h3>2021</h3>
 
+<li>J. M. P. Martirez and E. A. Carter, Metal-to-ligand-charge-transfer spectrum of a Ru-bipyridine-sensitized TiO2 cluster from embedded multi-configurational excited-state theory, under peer review (2021) 
+ </li>
+
+<li>J. M. P. Martirez and E. A. Carter, Projector-free capped-fragment scheme within density functional embedding theory for covalent and ionic compounds, under peer review (2021) 
+ </li>
+ 
+<li>L. Zhou, M. Lou, J. L. Bao, C. Zhang, J. G. Liu, J. M. P. Martirez, S. Tian, D. F. Swearer, H. Robatjazi, E. A. Carter, P. Nordlander, and N. J. Halas, Hot carrier multiplication in plasmonic photocatalysis, pending decision (2021)
+ </li>
+ 
+<li>Q. Zhao, J. M. P. Martirez, and E. A. Carter, Revisiting understanding of electrochemical CO2 reduction on Cu(111): competing proton-coupled electron transfer reaction mechanisms revealed by embedded correlated wavefunction theory. Journal of the American Chemical Society, in press (2021)
+ </li>
+ 
 <li>J. M. P. Martirez, J. L. Bao, and E. A. Carter, First-Principles Insights into Plasmon-Induced Catalysis. <a href="https://doi.org/10.1146/annurev-physchem-061020-053501">Annual Review of Physical Chemistry, 72, XX-XX (2021)</a> 
  
  <p align="center">
@@ -28,7 +40,7 @@ J. M. P. Martirez, S. Kim, and A. M. Rappe, Synergistic Oxygen Evolving Activity
 </p>
  </li>
  
- <li> R. Sheil, J. M. P. Martirez, X. Sang, E. A. Carter, and J. P. Chang, Precise control of nanoscale Cu etching via gas-phase oxidation and chemical complexation. <a href="https://doi.org/10.1021/acs.jpcc.0c08932"> Journal of Physical Chemistry C, in press (2021)</a>
+ <li> R. Sheil, J. M. P. Martirez, X. Sang, E. A. Carter, and J. P. Chang, Precise control of nanoscale Cu etching via gas-phase oxidation and chemical complexation. <a href="https://doi.org/10.1021/acs.jpcc.0c08932"> Journal of Physical Chemistry C, 125, 1819-1832 (2021) </a>
 </li>
 
 <h3>2020</h3>
