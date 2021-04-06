@@ -27,7 +27,7 @@ J. M. P. Martirez, S. Kim, and A. M. Rappe, Synergistic Oxygen Evolving Activity
 <li>J. M. P. Martirez and E. A. Carter, Projector-free capped-fragment scheme within density functional embedding theory for covalent and ionic compounds, under peer review (2021) 
  </li>
  
-<li>L. Zhou, M. Lou, J. L. Bao, C. Zhang, J. G. Liu, J. M. P. Martirez, S. Tian, D. F. Swearer, H. Robatjazi, E. A. Carter, P. Nordlander, and N. J. Halas, Hot carrier multiplication in plasmonic photocatalysis, pending decision (2021)
+<li>L. Zhou, M. Lou, J. L. Bao, C. Zhang, J. G. Liu, J. M. P. Martirez, S. Tian, D. F. Swearer, H. Robatjazi, E. A. Carter, P. Nordlander, and N. J. Halas, Hot carrier multiplication in plasmonic photocatalysis, Proceedings of the National Academy of Sciences U.S.A., in press (2021)
  </li>
  
 <li>Q. Zhao, J. M. P. Martirez, and E. A. Carter, Revisiting understanding of electrochemical CO2 reduction on Cu(111): competing proton-coupled electron transfer reaction mechanisms revealed by embedded correlated wavefunction theory. Journal of the American Chemical Society, in press (2021)
