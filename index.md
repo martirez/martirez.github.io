@@ -7,8 +7,8 @@ at University of California, Los Angeles, working with UCLA's [Executive Vice Ch
 
 <b>Research thrust.</b> Application of quantum mechanical methods (density functional theory and multiconfigurational correlated wavefunction or post Hartree-Fock theories, e.g., CASSCF, CASPT2, and NEVPT2) to understand and design functional (nano)materials, focusing on materials for sustainable energy conversion technologies and green chemical processing
 
-### <span style="color:#404040">News</span>
-Honored to be one of the recepients of the 2020 ACS Physical Chemistry Division [Young Investigation Awards](http://phys-acs.org/postdocs/2020.html)
+### <span style="color:#404040">Award(s)</span>
+2020 ACS Physical Chemistry Division [Young Investigation Awards](http://phys-acs.org/postdocs/2020.html)
 
 ### <span style="color:#404040">Research Highlights</span>
 
@@ -36,6 +36,8 @@ Our paper J. M. P. Martirez, and E. A. Carter, Prediction of a Low-Temperature N
 
 ### <span style="color:#404040">Recent Publications</span>
 [Complete list and links](publist.md)
+
+L. Zhou, M. Lou, J. L. Bao, C. Zhang, J. G. Liu, J. M. P. Martirez, S. Tian, D. F. Swearer, H. Robatjazi, E. A. Carter, P. Nordlander, and N. J. Halas, Hot carrier multiplication in plasmonic photocatalysis, Proceedings of the National Academy of Sciences U.S.A., in press (2021)
 
 Q. Zhao, J. M. P. Martirez, and E. A. Carter, Revisiting understanding of electrochemical CO2 reduction on Cu(111): competing proton-coupled electron transfer reaction mechanisms revealed by embedded correlated wavefunction theory. Journal of the American Chemical Society, in press (2021)
 
