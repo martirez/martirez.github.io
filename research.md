@@ -12,7 +12,7 @@ Metallic nanoparticles (MNPs) with free-electron-like valence electrons, e.g., g
 
 Selected relevant primary-authored publications:
 
-J. M. P. Martirez, J. L. Bao, and E. A. Carter, First-Principles Insights into Plasmon-Induced Catalysis. Annual Review of Physical Chemistry, 72, in press (2021) 	
+J. M. P. Martirez, J. L. Bao, and E. A. Carter, First-Principles Insights into Plasmon-Induced Catalysis. <a href="https://doi.org/10.1146/annurev-physchem-061020-053501">Annual Review of Physical Chemistry, 72, 99-119 (2021) </a>  	
 
 L. Zhou, J. M. P. Martirez, J. Finzel, C. Zhang, D. F. Swearer, S. Tian, H. Robatjazi, M. Lou, L. Dong, L. Henderson, P. Christopher, E. A. Carter, P. Nordlander, N. J. Halas, Light-driven methane dry reforming with single atomic site antenna-reactor plasmonic photocatalysts. <a href="https://doi.org/10.1038/s41560-019-0517-9">Nature Energy, 5, 61-70 (2020)</a> 
 
