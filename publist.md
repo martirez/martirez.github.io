@@ -33,7 +33,7 @@ J. M. P. Martirez, S. Kim, and A. M. Rappe, Synergistic Oxygen Evolving Activity
 <li>Q. Zhao, J. M. P. Martirez, and E. A. Carter, Revisiting understanding of electrochemical CO2 reduction on Cu(111): competing proton-coupled electron transfer reaction mechanisms revealed by embedded correlated wavefunction theory. <a href="https://doi.org/10.1021/jacs.1c00880"> Journal of the American Chemical Society, advance online publication (2021) </a>
  </li>
  
-<li>J. M. P. Martirez, J. L. Bao, and E. A. Carter, First-Principles Insights into Plasmon-Induced Catalysis. <a href="https://doi.org/10.1146/annurev-physchem-061020-053501">Annual Review of Physical Chemistry, 72, XX-XX (2021)</a> 
+<li>J. M. P. Martirez, J. L. Bao, and E. A. Carter, First-Principles Insights into Plasmon-Induced Catalysis. <a href="https://doi.org/10.1146/annurev-physchem-061020-053501">Annual Review of Physical Chemistry, 72, 99-119 (2021) </a> 
  
  <p align="center">
 <img src="https://martirez.github.io/Plasmonics-fig.png" width="650">
