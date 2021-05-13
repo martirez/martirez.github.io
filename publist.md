@@ -21,13 +21,13 @@ J. M. P. Martirez, S. Kim, and A. M. Rappe, Synergistic Oxygen Evolving Activity
 
 <h3>2021</h3>
 
-<li>J. M. P. Martirez and E. A. Carter, Metal-to-ligand-charge-transfer spectrum of a Ru-bipyridine-sensitized TiO2 cluster from embedded multi-configurational excited-state theory, J. Phys. Chem. A, in press (2021) 
+<li>J. M. P. Martirez and E. A. Carter, Metal-to-ligand-charge-transfer spectrum of a Ru-bipyridine-sensitized TiO2 cluster from embedded multi-configurational excited-state theory, Journal of Physical Chemistry A, in press (2021) 
  </li>
 
 <li>J. M. P. Martirez and E. A. Carter, Projector-free capped-fragment scheme within density functional embedding theory for covalent and ionic compounds, under peer review (2021) 
  </li>
  
-<li>L. Zhou, M. Lou, J. L. Bao, C. Zhang, J. G. Liu, J. M. P. Martirez, S. Tian, D. F. Swearer, H. Robatjazi, E. A. Carter, P. Nordlander, and N. J. Halas, Hot carrier multiplication in plasmonic photocatalysis, Proceedings of the National Academy of Sciences U.S.A., in press (2021)
+<li>L. Zhou, M. Lou, J. L. Bao, C. Zhang, J. G. Liu, J. M. P. Martirez, S. Tian, D. F. Swearer, H. Robatjazi, E. A. Carter, P. Nordlander, and N. J. Halas, Hot carrier multiplication in plasmonic photocatalysis, <a href="https://doi.org/10.1073/pnas.2022109118"> Proceedings of the National Academy of Sciences U.S.A., 118, e2022109118 (2021) </a>
  </li>
  
 <li>Q. Zhao, J. M. P. Martirez, and E. A. Carter, Revisiting understanding of electrochemical CO2 reduction on Cu(111): competing proton-coupled electron transfer reaction mechanisms revealed by embedded correlated wavefunction theory. <a href="https://doi.org/10.1021/jacs.1c00880"> Journal of the American Chemical Society, 143, 6152-6164 (2021) </a>
