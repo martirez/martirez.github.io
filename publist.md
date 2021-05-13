@@ -30,7 +30,7 @@ J. M. P. Martirez, S. Kim, and A. M. Rappe, Synergistic Oxygen Evolving Activity
 <li>L. Zhou, M. Lou, J. L. Bao, C. Zhang, J. G. Liu, J. M. P. Martirez, S. Tian, D. F. Swearer, H. Robatjazi, E. A. Carter, P. Nordlander, and N. J. Halas, Hot carrier multiplication in plasmonic photocatalysis, Proceedings of the National Academy of Sciences U.S.A., in press (2021)
  </li>
  
-<li>Q. Zhao, J. M. P. Martirez, and E. A. Carter, Revisiting understanding of electrochemical CO2 reduction on Cu(111): competing proton-coupled electron transfer reaction mechanisms revealed by embedded correlated wavefunction theory. <a href="https://doi.org/10.1021/jacs.1c00880"> Journal of the American Chemical Society, advance online publication (2021) </a>
+<li>Q. Zhao, J. M. P. Martirez, and E. A. Carter, Revisiting understanding of electrochemical CO2 reduction on Cu(111): competing proton-coupled electron transfer reaction mechanisms revealed by embedded correlated wavefunction theory. <a href="https://doi.org/10.1021/jacs.1c00880"> Journal of the American Chemical Society, 143, 6152-6164 (2021) </a>
  </li>
  
 <li>J. M. P. Martirez, J. L. Bao, and E. A. Carter, First-Principles Insights into Plasmon-Induced Catalysis. <a href="https://doi.org/10.1146/annurev-physchem-061020-053501">Annual Review of Physical Chemistry, 72, 99-119 (2021) </a> 
