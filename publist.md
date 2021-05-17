@@ -22,6 +22,9 @@ J. M. P. Martirez, S. Kim, and A. M. Rappe, Synergistic Oxygen Evolving Activity
 <h3>2021</h3>
 
 <li>J. M. P. Martirez and E. A. Carter, Metal-to-ligand-charge-transfer spectrum of a Ru-bipyridine-sensitized TiO2 cluster from embedded multi-configurational excited-state theory, Journal of Physical Chemistry A, in press (2021) 
+<p align="center">
+<img src="https://martirez.github.io/Ru-bpy-TOC.png" width="650">
+</p>
  </li>
 
 <li>J. M. P. Martirez and E. A. Carter, Projector-free capped-fragment scheme within density functional embedding theory for covalent and ionic compounds, under peer review (2021) 
