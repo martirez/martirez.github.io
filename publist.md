@@ -23,7 +23,7 @@ J. M. P. Martirez, S. Kim, and A. M. Rappe, Synergistic Oxygen Evolving Activity
 
 <li>J. M. P. Martirez and E. A. Carter, Metal-to-ligand-charge-transfer spectrum of a Ru-bipyridine-sensitized TiO2 cluster from embedded multi-configurational excited-state theory, Journal of Physical Chemistry A, in press (2021) 
 <p align="center">
-<img src="https://martirez.github.io/Ru-bpy-TOC.png" width="650">
+<img src="https://martirez.github.io/Ru-bpy-TOC.png" width="350">
 </p>
  </li>
 
