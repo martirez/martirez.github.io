@@ -27,11 +27,11 @@ J. M. P. Martirez, S. Kim, and A. M. Rappe, Synergistic Oxygen Evolving Activity
 </p>
  </li>
 
-<li>J. M. P. Martirez and E. A. Carter, Projector-free capped-fragment scheme within density functional embedding theory for covalent and ionic compounds,Journal of Chemical Theory and Computation, in press (2021) 
- </li>
+<li>J. M. P. Martirez and E. A. Carter, Projector-free capped-fragment scheme within density functional embedding theory for covalent and ionic compounds, Journal of Chemical Theory and Computation, in press (2021)
  <p align="center">
 <img src="https://martirez.github.io/TOC-AlO.png" width="350">
 </p>
+ </li>
  
 <li>L. Zhou, M. Lou, J. L. Bao, C. Zhang, J. G. Liu, J. M. P. Martirez, S. Tian, D. F. Swearer, H. Robatjazi, E. A. Carter, P. Nordlander, and N. J. Halas, Hot carrier multiplication in plasmonic photocatalysis, <a href="https://doi.org/10.1073/pnas.2022109118"> Proceedings of the National Academy of Sciences U.S.A., 118, e2022109118 (2021) </a>
  </li>
