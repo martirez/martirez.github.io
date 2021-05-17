@@ -47,7 +47,7 @@ J. M. P. Martirez, and E. A. Carter, Effects of the Aqueous Environment on the S
 #### A Simple Embedding Method for Covalent and Ionic Materials
 
 <p align="center">
-<img src="https://martirez.github.io/TOC.png" width="500">
+<img src="https://martirez.github.io/CAP-DFET-fig.png" width="500">
 </p>
 
 *Summary. We introduced an extension of density functional embedding theory (DFET) to covalent and ionic compounds, where the original DFET method had been shown to be inadequate. The goal is to perform accurate embedded correlated wavefunction calculations and evaluate the absorption and emission behavior of, for example, hybrid organic-inorganic systems. In such systems, the fundamental electronic transitions usually are localized between the organic chromophore and the nearest transition metal cation of the inorganic component of the semiconductor, making such systems suitable for the localized description of excited states (excitons).* 
@@ -56,9 +56,9 @@ Fully ab initio and systematically improvable correlated wavefunction (CW) or po
 
 Selected relevant primary-authored publications: 
 
-J. M. P. Martirez, and E. A. Carter, Projector-free capped-fragment scheme within density functional embedding theory for covalent and ionic compounds, under review (2021) 
+J. M. P. Martirez, and E. A. Carter, Projector-free capped-fragment scheme within density functional embedding theory for covalent and ionic compounds, Journal of Chemical Theory and Computation, in press (2021) 
 
-J. M. P. Martirez, and E. A. Carter, Metal-to-Ligand-Charge-Transfer Spectrum of a Ru-bipyridine-Sensitized TiO2 Cluster from Embedded Multi-Configurational Excited-State Theory, under review  (2021)
+J. M. P. Martirez, and E. A. Carter, Metal-to-Ligand-Charge-Transfer Spectrum of a Ru-bipyridine-Sensitized TiO2 Cluster from Embedded Multi-Configurational Excited-State Theory, Journal of Physical Chemistry A, in press (2021)
 
 
 
