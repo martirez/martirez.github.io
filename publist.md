@@ -24,7 +24,7 @@ J. M. P. Martirez, S. Kim, and A. M. Rappe, Synergistic Oxygen Evolving Activity
 <li>A. G. Rajan, J. M. P. Martirez, and E. A. Carter, The Coupled Effects of Temperature, Pressure, and pH on Water Oxidation Thermodynamics and Kinetics, under review (2021)
  </li>
  
-<li>J. M. P. Martirez and E. A. Carter, Metal-to-ligand-charge-transfer spectrum of a Ru-bipyridine-sensitized TiO2 cluster from embedded multi-configurational excited-state theory, <a href="https://doi.org/10.1021/acs.jpca.1c02628"> Journal of Physical Chemistry A, ASAP (2021) </a> 
+<li>J. M. P. Martirez and E. A. Carter, Metal-to-ligand-charge-transfer spectrum of a Ru-bipyridine-sensitized TiO2 cluster from embedded multi-configurational excited-state theory, <a href="https://doi.org/10.1021/acs.jpca.1c02628"> Journal of Physical Chemistry A, 125, 4998-5013 (2021) </a> 
 <p align="center">
 <img src="https://martirez.github.io/Ru-bpy-TOC.png" width="350">
 </p>
