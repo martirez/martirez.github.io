@@ -30,7 +30,7 @@ J. M. P. Martirez, S. Kim, and A. M. Rappe, Synergistic Oxygen Evolving Activity
 </p>
  </li>
 
-<li>J. M. P. Martirez and E. A. Carter, Projector-free capped-fragment scheme within density functional embedding theory for covalent and ionic compounds, <a href="https://doi.org/10.1021/acs.jctc.1c00285">Journal of Chemical Theory and Computation, ASAP (2021) </a>
+<li>J. M. P. Martirez and E. A. Carter, Projector-free capped-fragment scheme within density functional embedding theory for covalent and ionic compounds, <a href="https://doi.org/10.1021/acs.jctc.1c00285">Journal of Chemical Theory and Computation, 7, 4105-4121 (2021) </a>
  <p align="center">
 <img src="https://martirez.github.io/TOC-AlO.png" width="350">
 </p>
