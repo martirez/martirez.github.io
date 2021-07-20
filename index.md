@@ -8,7 +8,7 @@ at University of California, Los Angeles, working with UCLA's [Executive Vice Ch
 <b>Research thrust.</b> Application of quantum mechanical methods (density functional theory and multiconfigurational correlated wavefunction or post Hartree-Fock theories, e.g., CASSCF, CASPT2, and NEVPT2) to understand and design functional (nano)materials, focusing on materials for sustainable energy conversion technologies and green chemical processing
 
 ### <span style="color:#404040">Award(s)</span>
-2020 ACS Physical Chemistry Division [Young Investigation Awards](http://phys-acs.org/postdocs/2020.html)
+2020 ACS Physical Chemistry Division [Young Investigator Awards](http://phys-acs.org/postdocs/2020.html)
 
 ### <span style="color:#404040">Research Highlights</span>
 
