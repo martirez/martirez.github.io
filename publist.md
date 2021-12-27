@@ -21,8 +21,14 @@ J. M. P. Martirez, S. Kim, and A. M. Rappe, Synergistic Oxygen Evolving Activity
 
 <h3>2021</h3>
 
-<li>A. G. Rajan, J. M. P. Martirez, and E. A. Carter, The Coupled Effects of Temperature, Pressure, and pH on Water Oxidation Thermodynamics and Kinetics, under review (2021)
+<li>A. Acosta, J. M. P. Martirez, N. Lim, J. P. Chang, and E. A. Carter, Relationship between ferroelectric polarization and stoichiometry of HfO2 surfaces. Physical Review Materials, accepted (2021) 
  </li>
+ 
+<li>L. Li, J. M. P. Martirez, and E. A. Carter, Identifying an Alternative Hydride Transfer Pathway for CO2 Reduction on CdTe(111) and CuInS2(112) Surfaces. <a href="https://doi.org/10.1002/adts.202100413"> Advanced Theory and Simulations, 2100413 (2021) </a>
+</li>
+ 
+<li>A. G. Rajan, J. M. P. Martirez, and E. A. Carter, The Coupled Effects of Temperature, Pressure, and pH on Water Oxidation Thermodynamics and Kinetics, <a href="https://doi.org/10.1021/acscatal.1c02428"> ACS Catalysis, 11, 11305-11319 (2021) </a>
+</li>
  
 <li>J. M. P. Martirez and E. A. Carter, Metal-to-ligand-charge-transfer spectrum of a Ru-bipyridine-sensitized TiO2 cluster from embedded multi-configurational excited-state theory, <a href="https://doi.org/10.1021/acs.jpca.1c02628"> Journal of Physical Chemistry A, 125, 4998-5013 (2021) </a> 
 <p align="center">
