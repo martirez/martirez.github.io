@@ -21,7 +21,7 @@ J. M. P. Martirez, S. Kim, and A. M. Rappe, Synergistic Oxygen Evolving Activity
 
 <h3>2021</h3>
 
-<li>A. Acosta, J. M. P. Martirez, N. Lim, J. P. Chang, and E. A. Carter, Relationship between ferroelectric polarization and stoichiometry of HfO2 surfaces. Physical Review Materials, accepted (2021) 
+<li>A. Acosta, J. M. P. Martirez, N. Lim, J. P. Chang, and E. A. Carter, Relationship between ferroelectric polarization and stoichiometry of HfO2 surfaces. <a href="https://doi.org/10.1103/PhysRevMaterials.5.124417">Physical Review Materials, 5, 124417 (2021) </a>
  </li>
  
 <li>L. Li, J. M. P. Martirez, and E. A. Carter, Identifying an Alternative Hydride Transfer Pathway for CO2 Reduction on CdTe(111) and CuInS2(112) Surfaces. <a href="https://doi.org/10.1002/adts.202100413"> Advanced Theory and Simulations, 2100413 (2021) </a>
