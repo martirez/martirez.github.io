@@ -5,7 +5,7 @@
 I'm currently an <b>Assistant Project Scientist</b> in the Department of Chemical and Biomolecular Engineering 
 at University of California, Los Angeles, working with [Prof. Emily A. Carter (UCLA/Princeton)](https://research.seas.ucla.edu/carter/). 
 
-Starting September 2022, I will be a Staff Research Scientist and the Deputy Advisor for Sustainability Science at the Princeton Plasma Physics Laboratory (PPPL). 
+Starting September 2022, I will be a Staff Research Scientist and the Deputy Advisor for Sustainability Science at the [Princeton Plasma Physics Laboratory (PPPL)](https://www.pppl.gov). 
 
 <b>Research thrust.</b> Application of quantum mechanical methods (density functional theory and multiconfigurational correlated wavefunction or post Hartree-Fock theories, e.g., CASSCF, CASPT2, and NEVPT2) to understand and design functional (nano)materials, focusing on materials for sustainable energy conversion technologies and green chemical processing
 
