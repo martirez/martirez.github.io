@@ -3,7 +3,7 @@
 [Curriculum Vitae](https://martirez.github.io/MARTIREZ-JMP-CV.pdf)  &nbsp;&nbsp;&nbsp; [Google scholar profile](https://scholar.google.com/citations?user=_PiDROMAAAAJ&hl=en) &nbsp;&nbsp;&nbsp; [Complete list of publications](publist.md)
 
 I'm currently an <b>Assistant Project Scientist</b> in the Department of Chemical and Biomolecular Engineering 
-at University of California, Los Angeles, working with [Prof. Emily A. Carter (UCLA/Princeton)](https://research.seas.ucla.edu/carter/). 
+at University of California, Los Angeles, working with [Prof. Emily A. Carter (UCLA/Princeton)](https://carter.princeton.edu/about/). 
 
 Starting September 2022, I will be a Staff Research Scientist and the Deputy Advisor for Sustainability Science at the [Princeton Plasma Physics Laboratory (PPPL)](https://www.pppl.gov) - one of US DOE Office of Science national laboratories. 
 
