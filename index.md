@@ -2,10 +2,7 @@
 
 [Curriculum Vitae](https://martirez.github.io/MARTIREZ-JMP-CV.pdf)  &nbsp;&nbsp;&nbsp; [Google scholar profile](https://scholar.google.com/citations?user=_PiDROMAAAAJ&hl=en) &nbsp;&nbsp;&nbsp; [Complete list of publications](publist.md)
 
-I'm currently an <b>Assistant Project Scientist</b> in the Department of Chemical and Biomolecular Engineering 
-at University of California, Los Angeles, working with [Prof. Emily A. Carter (UCLA/Princeton)](https://carter.princeton.edu/about/). 
-
-Starting September 2022, I will be a Staff Research Scientist and the Deputy Advisor for Sustainability Science at the [Princeton Plasma Physics Laboratory (PPPL)](https://www.pppl.gov) - one of US DOE Office of Science national laboratories. 
+I am a <b>Staff Research Scientist and the Deputy Advisor for Sustainability Science </b>at the [Princeton Plasma Physics Laboratory (PPPL)](https://www.pppl.gov) - one of US DOE Office of Science national laboratories. I work with [Prof. Emily A. Carter (PPPL/Princeton)](https://carter.princeton.edu/about/) - the Senior Strategic Advisor for Sustainability Science. 
 
 <b>Research thrust.</b> Application of quantum mechanical methods (density functional theory and multiconfigurational correlated wavefunction or post Hartree-Fock theories, e.g., CASSCF, CASPT2, and NEVPT2) to understand and design functional (nano)materials, focusing on materials for sustainable energy conversion technologies and green chemical processing
 
