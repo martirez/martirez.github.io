@@ -1,6 +1,6 @@
 ### JOHN MARK P. MARTIREZ, Ph. D. 
 
-[Please visit the new website]([https://sites.google.com/pppl.gov/martirez-pppl])  &nbsp;&nbsp;&nbsp; [Google scholar profile](https://scholar.google.com/citations?user=_PiDROMAAAAJ&hl=en) &nbsp;&nbsp;&nbsp; [Complete list of publications](publist.md)
+[Please visit the new website](https://sites.google.com/pppl.gov/martirez-pppl)  &nbsp;&nbsp;&nbsp; [Google scholar profile](https://scholar.google.com/citations?user=_PiDROMAAAAJ&hl=en) &nbsp;&nbsp;&nbsp; [Complete list of publications](publist.md)
 
 I am a <b>Staff Research Scientist and the Deputy Advisor for Sustainability Science </b>at the [Princeton Plasma Physics Laboratory (PPPL)](https://www.pppl.gov) - one of US DOE Office of Science national laboratories. I work with [Prof. Emily A. Carter (PPPL/Princeton)](https://carter.princeton.edu/about/) - the Senior Strategic Advisor for Sustainability Science. 
 
